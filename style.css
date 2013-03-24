@@ -15,7 +15,7 @@ div.header {
 div.pageTitle {
   color: #fff;
   font-size: 44pt;
-  margin-left: 55px;
+  margin-left: 0px;
   padding-top: 44px;
   padding-left: 71px;
   text-shadow: 6px 6px 20px #000;
@@ -26,7 +26,7 @@ div.bodycontent p {
 }
 
 div.bodyinnercontent {
-  margin-left: 124px;
+  margin-left: 64px;
   width: 665px;
   background-color: #fff;
   border-radius: 8px;
@@ -45,7 +45,7 @@ div.bodyinnercontent {
 .sectionTitle {
   font-size: 16pt;
   font-weight: bold;
-  margin: 18px 0px 3px 15px
+  margin: 28px 0px 8px 15px
 }
 
 .contentLine {
