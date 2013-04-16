@@ -79,7 +79,7 @@ a {
 }
 
 a:link { 
-  color: #1371AE;
+  color: #4EA9DE;
 }
 
 a:visited { 
@@ -91,6 +91,6 @@ a:hover {
 }
 
 a:active { 
-  color: #4EA9DE;
+  color: #1371AE;
 }
 
