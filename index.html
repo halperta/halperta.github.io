@@ -17,6 +17,26 @@
 
 </script>
 
+<script language="javascript"> 
+function show_fullstop_sublist() {
+    var ele = document.getElementById("fullstop-sublist");
+    var plus = document.getElementById("fullstop-pluslink");
+    var minus = document.getElementById("fullstop-minuslink");
+    ele.style.display = "block";
+    plus.style.display = "none";
+    minus.style.display = "inline-block";
+} 
+function hide_fullstop_sublist() {
+    var ele = document.getElementById("fullstop-sublist");
+    var plus = document.getElementById("fullstop-pluslink");
+    var minus = document.getElementById("fullstop-minuslink");
+    ele.style.display = "none";
+    plus.style.display = "inline-block";
+    minus.style.display = "none";
+} 
+</script>
+
+
 <link rel="stylesheet" type="text/css" href="style.css" />
 
 </HEAD>
@@ -39,17 +59,17 @@
 
   <p class="contentLine"><a href="pdf/hannah_alpert-abrams_hybrid_romances_acla2013.pdf">
             Hybrid Romances in Borges and Baudelaire</a></p>
-            <p class="content publine">ACLA 2013
+            <p class="publine">ACLA 2013
             </p>
 
     <p class="contentLine"><a href="http://new.pterodactilo.com/articulos/hannah">
             Translating an Unreadable Novel: The Lost Steps in the United States</a></p>
-            <p class="content publine">Pterod&aacute;ctilo 11, Fall 2012
+            <p class="publine">Pterod&aacute;ctilo 11, Fall 2012
             </p>
 
   <p class="contentLine"><a href="pdf/GRACLS_2012.pdf">
             In Memory and Archives</a></p>
-            <p class="content publine">Collected writings from the "Memory and Archives" panel at the 2012 <i>Graduate Association in Comparative Literature</i> conference at the University of Texas at Austin.
+            <p class="publine">Collected writings from the "Memory and Archives" panel at the 2012 <i>Graduate Association in Comparative Literature</i> conference at the University of Texas at Austin.
             </p>
 
 
@@ -57,27 +77,34 @@
 
   <p class="contentLine"><a href="http://www.full-stop.net/2012/11/21/reviews/hannah-alpert-abrams/the-cardboard-house-martin-adan/">
             Book Review: Mart&iacute;n Ad&aacute;n, The Cardboard House</a></p>
-            <p class="content publine"> Full-Stop, 21 November 2012
+            <p class="publine"> Full-Stop, 21 November 2012
             </p>
 
   <p class="contentLine"><a href="http://www.full-stop.net/author/hannah-alpert-abrams/">
-            Full-Stop blog</a></p>
-            <p class="content publine"> Disco, marriage, archival parties. Monthly blogging for full-stop.net
-            </p>
+    Full-Stop blog</a> &nbsp; 
+    <span id="fullstop-pluslink" style="display: inline-block;"><a href="javascript:void(0)" onclick="show_fullstop_sublist()">[+]</a></span>
+    <span id="fullstop-minuslink" style="display: none;"><a href="javascript:void(0)" onclick="hide_fullstop_sublist()">[&ndash;]</a></span>
+    </p>
+    <p class="publine"> Disco, marriage, archival parties. Monthly blogging for full-stop.net</p>
+    <div id="fullstop-sublist" class="sublist" style="display: none;">
+      <p class="sublistLine"><a href="http://www.full-stop.net/2013/01/24/blog/hannah-alpert-abrams/reading-under-the-influence/">Reading Under The Influence</a>, 24 January 2013 </p>
+      <p class="sublistLine"><a href="http://www.full-stop.net/2012/12/12/blog/hannah-alpert-abrams/on-disco/">On Disco</a>, 12 December 2012 </p>
+      <p class="sublistLine"><a href="http://www.full-stop.net/2012/11/21/reviews/hannah-alpert-abrams/the-cardboard-house-martin-adan/">Book Review: Mart&iacute;n Ad&aacute;n, The Cardboard House</a>, 21 November 2013 </p>
+    </div>
 
  <p class="sectionTitle">Collaborations</p>
 
   <p class="contentLine"><a href="http://www.batcityreview.la.utexas.edu/">
             Bat City Review</a></p>
-            <p class="content publine"> Associate Fiction Editor
+            <p class="publine"> Associate Fiction Editor
             </p>
  <p class="contentLine"><a href="http://institutefordaysspentmaking.wordpress.com/">
             Institute for Days Spent Making</a></p>
-            <p class="content publine"> Program Organizer
+            <p class="publine"> Program Organizer
             </p>
 <p class="contentLine"><a href="http://davidrynick.com/this-truth-never-fails/">
             This Truth Never Fails by David Rynick</a></p>
-            <p class="content publine"> Editorial consulting
+            <p class="publine"> Editorial consulting
             </p>
             
 <p class="sectionTitle">Affiliations</p>
