@@ -18,22 +18,22 @@
 </script>
 
 <script language="javascript"> 
-function show_fullstop_sublist() {
-    var ele = document.getElementById("fullstop-sublist");
-    var plus = document.getElementById("fullstop-pluslink");
-    var minus = document.getElementById("fullstop-minuslink");
+function show_sublist(key) {
+    var ele = document.getElementById(key + "-sublist");
+    var plus = document.getElementById(key + "-pluslink");
+    var minus = document.getElementById(key + "-minuslink");
     ele.style.display = "block";
     plus.style.display = "none";
     minus.style.display = "inline-block";
-} 
-function hide_fullstop_sublist() {
-    var ele = document.getElementById("fullstop-sublist");
-    var plus = document.getElementById("fullstop-pluslink");
-    var minus = document.getElementById("fullstop-minuslink");
+}
+function hide_sublist(key) {
+    var ele = document.getElementById(key + "-sublist");
+    var plus = document.getElementById(key + "-pluslink");
+    var minus = document.getElementById(key + "-minuslink");
     ele.style.display = "none";
     plus.style.display = "inline-block";
     minus.style.display = "none";
-} 
+}
 </script>
 
 
@@ -55,68 +55,108 @@ function hide_fullstop_sublist() {
 	</p>
 
   
-	<p class="sectionTitle">Academic Writing</p>
+<p class="sectionTitle">Academic Writing</p>
 
   <p class="contentLine"><a href="pdf/hannah_alpert-abrams_hybrid_romances_acla2013.pdf">
-            Hybrid Romances in Borges and Baudelaire</a></p>
-            <p class="publine">ACLA 2013
-            </p>
+      Hybrid Romances in Borges and Baudelaire</a> &nbsp; 
+      <span id="acla2013-pluslink" style="display: inline-block;"><a href="javascript:void(0)" onclick="show_sublist('acla2013')">[+]</a></span>
+      <span id="acla2013-minuslink" style="display: none;"><a href="javascript:void(0)" onclick="hide_sublist('acla2013')">[&ndash;]</a></span>
+      </p>
+      <p class="publine">ACLA 2013</p>
+      <div id="acla2013-sublist" class="abstract" style="display: none;">
+          <p class="sublistLine">
+          <i>Abstract</i>
+          </p>
+          <p>
+          Samuel Cramer, the anti-hero of Charles Baudelaire's early novella La Fanfarlo, is the product of a
+          German father and a Chilean mother: combined with a French education, this national hybridity produces
+          in him a hopeless romanticism. Thus Cramer embodies what Mary Louise Pratt calls the romanticism of
+          the contact zone, the possibility that European romanticism is an epidemic from across the Atlantic.
+          </p>
+          <p>
+          In Pratt's model, romanticism returns to the Americas through the early nineteenth-century travels and
+          travel writings of Alexander von Humboldt. Samuel Cramer resurfaces here too, in the unlikely figure
+          of Juan Dahlmann. Dahlmann, the protagonist of Jorge Luis Borges' short story El sur, is the Argentine
+          son of a German father and an American mother. Though on the surface this story is quite different, its
+          narrative runs parallel to that of La Fanfarlo. Like Cramer, in the end Dahlmann also suffers from a fatal
+          romanticism.
+          </p>
+          <p>
+          In this paper I will read El sur alongside La Fanfarlo to construct a transatlantic lineage of hybrid identities
+          and hybrid literatures. I will examine the oscillation between the modern and the romantic as an iterative
+          movement, from salon to city streets, from library to pampas, and from Baudelaire's Paris to Borges'
+          Buenos Aires.
+          </p>
+      </div>
 
-    <p class="contentLine"><a href="http://new.pterodactilo.com/articulos/hannah">
-            Translating an Unreadable Novel: The Lost Steps in the United States</a></p>
-            <p class="publine">Pterod&aacute;ctilo 11, Fall 2012
-            </p>
+  <p class="contentLine"><a href="http://new.pterodactilo.com/articulos/hannah">
+      Translating an Unreadable Novel: The Lost Steps in the United States</a></p>
+      <p class="publine">Pterod&aacute;ctilo 11, Fall 2012</p>
 
   <p class="contentLine"><a href="pdf/GRACLS_2012.pdf">
-            In Memory and Archives</a></p>
-            <p class="publine">Collected writings from the "Memory and Archives" panel at the 2012 <i>Graduate Association in Comparative Literature</i> conference at the University of Texas at Austin.
-            </p>
+      In Memory and Archives</a> &nbsp; 
+      <span id="gracls2012-pluslink" style="display: inline-block;"><a href="javascript:void(0)" onclick="show_sublist('gracls2012')">[+]</a></span>
+      <span id="gracls2012-minuslink" style="display: none;"><a href="javascript:void(0)" onclick="hide_sublist('gracls2012')">[&ndash;]</a></span>
+      </p>
+      <p class="publine">Collected writings from the "Memory and Archives" panel at the 2012 <i>Graduate Association in Comparative Literature</i> conference at the University of Texas at Austin.
+      </p>
+      <div id="gracls2012-sublist" class="abstract" style="display: none;">
+          <p>
+          <i>Abstract</i>
+          </p>
+          <p>
+          <i>How do archives construct communities (and how do communities construct archives)?</i>
+          </p>
+          <p>
+          In this paper, I talk about subversive, disappearing, and silent archives in Roberto Bola&ntilde;o's Los detectives salvajes. In 1989, Roberto Gonz&aacute;lez Echevarr&iacute;a's Myth and Archive offered a definitive historiography of Latin American literature culminating in the "archival novel" of the "boom" era. This genre is characterized by the combination of a mythic or cyclical narrative structure with a more teleological narrative based in the archive &mdash; in a collection of canonical national and historical texts. Bola&ntilde;o's novel can be read as a continuation of and a return to the "archival novel" because of the way in which it collects and catalogues texts. This suggests that it can also be read as a continuation of the project of building a national or continental Latin American identity, and Bola&ntilde;o has often been read this way, striking an ongoing debate over his Chilean, Mexican, and Latin American authenticity.
+          </p>
+          <p>
+          Although the archives in Los detectives salvajes do follow archival convention, however, they are both parodic and subversive. One archive catalogues the great Latin American poets by way of their (imagined) sexuality; another contains books that are stolen but not read; another contains the poems rejected by a literary magazine. These archives are constructed in bars, in bedrooms, and on rooftops; the archivists themselves are dropouts and poets and prostitutes, often drunk or high. I will argue that this archival parody makes obsolete the concept of the fixed national archive and, thus, the project of constructing identities along geopolitical lines. Bola&ntilde;o's archives, instead, offer an escape from a violent and chaotic world, indulging the fantasy of narrative stability and of play.
+          </p>
+      </div>
 
 
-  <p class="sectionTitle">Other Writing</p>
+<p class="sectionTitle">Other Writing</p>
 
   <p class="contentLine"><a href="http://www.full-stop.net/2012/11/21/reviews/hannah-alpert-abrams/the-cardboard-house-martin-adan/">
-            Book Review: Mart&iacute;n Ad&aacute;n, The Cardboard House</a></p>
-            <p class="publine"> Full-Stop, 21 November 2012
-            </p>
+    Book Review: Mart&iacute;n Ad&aacute;n, The Cardboard House</a></p>
+    <p class="publine"> Full-Stop, 21 November 2012</p>
 
   <p class="contentLine"><a href="http://www.full-stop.net/author/hannah-alpert-abrams/">
-    Full-Stop blog</a> &nbsp; 
-    <span id="fullstop-pluslink" style="display: inline-block;"><a href="javascript:void(0)" onclick="show_fullstop_sublist()">[+]</a></span>
-    <span id="fullstop-minuslink" style="display: none;"><a href="javascript:void(0)" onclick="hide_fullstop_sublist()">[&ndash;]</a></span>
-    </p>
-    <p class="publine"> Disco, marriage, archival parties. Monthly blogging for full-stop.net</p>
-    <div id="fullstop-sublist" class="sublist" style="display: none;">
-      <p class="sublistLine"><a href="http://www.full-stop.net/2013/01/24/blog/hannah-alpert-abrams/reading-under-the-influence/">Reading Under The Influence</a>, 24 January 2013 </p>
-      <p class="sublistLine"><a href="http://www.full-stop.net/2012/12/12/blog/hannah-alpert-abrams/on-disco/">On Disco</a>, 12 December 2012 </p>
-      <p class="sublistLine"><a href="http://www.full-stop.net/2012/11/21/reviews/hannah-alpert-abrams/the-cardboard-house-martin-adan/">Book Review: Mart&iacute;n Ad&aacute;n, The Cardboard House</a>, 21 November 2013 </p>
-    </div>
+      Full-Stop blog</a> &nbsp; 
+      <span id="fullstop-pluslink" style="display: inline-block;"><a href="javascript:void(0)" onclick="show_sublist('fullstop')">[+]</a></span>
+      <span id="fullstop-minuslink" style="display: none;"><a href="javascript:void(0)" onclick="hide_sublist('fullstop')">[&ndash;]</a></span>
+      </p>
+      <p class="publine"> Disco, marriage, archival parties. Monthly blogging for full-stop.net</p>
+      <div id="fullstop-sublist" class="sublist" style="display: none;">
+          <p class="sublistLine"><a href="http://www.full-stop.net/2013/01/24/blog/hannah-alpert-abrams/reading-under-the-influence/">Reading Under The Influence</a>, 24 January 2013 </p>
+          <p class="sublistLine"><a href="http://www.full-stop.net/2012/12/12/blog/hannah-alpert-abrams/on-disco/">On Disco</a>, 12 December 2012 </p>
+      </div>
 
- <p class="sectionTitle">Collaborations</p>
 
-  <p class="contentLine"><a href="http://www.batcityreview.la.utexas.edu/">
-            Bat City Review</a></p>
-            <p class="publine"> Associate Fiction Editor
-            </p>
- <p class="contentLine"><a href="http://institutefordaysspentmaking.wordpress.com/">
-            Institute for Days Spent Making</a></p>
-            <p class="publine"> Program Organizer
-            </p>
-<p class="contentLine"><a href="http://davidrynick.com/this-truth-never-fails/">
-            This Truth Never Fails by David Rynick</a></p>
-            <p class="publine"> Editorial consulting
-            </p>
-            
+<p class="sectionTitle">Collaborations</p>
+    <p class="contentLine"><a href="http://www.batcityreview.la.utexas.edu/">
+        Bat City Review</a></p>
+        <p class="publine"> Associate Fiction Editor</p>
+    <p class="contentLine"><a href="http://institutefordaysspentmaking.wordpress.com/">
+        Institute for Days Spent Making</a></p>
+        <p class="publine"> Program Organizer</p>
+    <p class="contentLine"><a href="http://davidrynick.com/this-truth-never-fails/">
+        This Truth Never Fails by David Rynick</a></p>
+        <p class="publine"> Editorial consulting</p>
+
+
 <p class="sectionTitle">Affiliations</p>
-
-  <p class="contentLine"><a href="https://www.utexas.edu/cola/progs/complit/">
-            Program in Comparative Literature at the University of Texas at Austin</a></p>
+    <p class="contentLine"><a href="https://www.utexas.edu/cola/progs/complit/">
+        Program in Comparative Literature at the University of Texas at Austin</a></p>
  
- <p class="contentLine"><a href="http://theschoolofmakingthinking.com/">
-            The School of Making Thinking,</a></p>
+    <p class="contentLine"><a href="http://theschoolofmakingthinking.com/">
+        The School of Making Thinking</a></p>
             
- <p class="contentLine"><a href="http://nuestrohuertoworcester.wordpress.com//">
-            Nuestro Huerto</a></p>
+    <p class="contentLine"><a href="http://nuestrohuertoworcester.wordpress.com//">
+        Nuestro Huerto</a></p>
+
+
     </DIV>
   </DIV>
 

@@ -57,12 +57,24 @@ div.bodyinnercontent {
   margin: 0px 0px 10px 35px
 }
 
-.sublist {
+.abstract {
+  font-size: 10pt;
   margin: 0px 0px 10px 50px;
+  padding: 5px 15px 5px 15px;
+  background-color: #EEE;
+}
+.abstract p {
+  margin: 10px 0px 10px 0px
 }
 
+.sublist {
+  font-size: 10pt;
+  margin: 0px 0px 0px 50px;
+  padding: 0px 15px 0px 15px;
+  /*background-color: #EEE;*/
+}
 .sublistLine {
-  margin: 0px 0px 5px 0px
+  margin: 5px 0px 5px 0px
 }
 
 div.credit {
