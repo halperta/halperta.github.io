@@ -1,7 +1,7 @@
 body { 
   font-family: "Gill Sans MT", "arial", sans-serif;
   font-size: 12pt;
-  background-color: #4d4d4d;
+  background-color: #ffffff;
   color: #000000;
   background-repeat: no-repeat;
   background-position: bottom left;
@@ -20,11 +20,11 @@ div.firstName {
 	margin-bottom:50px; 
 	}
 div.pageTitle {
-  color: #fff;
+  color: #000000;
   font-family: "MonarchTitling", "Gill Sans MT", sans-serif;
   font-size: 44pt;
   margin-left: 0px;
-  padding-top: 44px;
+  padding-top: 90px;
   padding-left: 71px;
   text-align: center;
   text-shadow: 6px 6px 20px #000;
