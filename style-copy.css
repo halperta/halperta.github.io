@@ -1,0 +1,129 @@
+body { 
+  font-family: "Gill Sans MT", "arial", sans-serif;
+  font-size: 12pt;
+  background-color: #4d4d4d;
+  color: #000000;
+  background-repeat: no-repeat;
+  background-position: bottom left;
+  background-position: 85px 45px;
+}
+
+div.header {
+  height: 109px;
+}
+
+div.firstName {
+	background-image: url(img/HANNAHheader.jpg); 
+	background-repeat: no-repeat; 
+	background-position: center; 
+	padding-top:68px; 
+	margin-bottom:50px; 
+	}
+div.pageTitle {
+  color: #fff;
+  font-family: "MonarchTitling", "Gill Sans MT", sans-serif;
+  font-size: 44pt;
+  margin-left: 0px;
+  padding-top: 44px;
+  padding-left: 71px;
+  text-align: center;
+  text-shadow: 6px 6px 20px #000;
+    @font-face {
+	font-family: "MonarchTitling";
+	src: url(img/MonarchTitling.otf) format("opentype");
+	}
+	}
+}
+
+div.bodycontent p {
+  line-height: 140%;
+}
+
+div.bodyinnercontent {
+  margin-left: 64px;
+  width: 665px;
+  background-color: #fff;
+  border-radius: 8px;
+  -moz-border-radius: 8px;
+  padding: 40px 35px 60px 35px;
+  background-image: url(img/hannah_alpert-abrams.jpg);
+  background-repeat: no-repeat;
+  background-position: 370px 45px;
+  background-size: 45%;
+}
+
+.intro {
+  margin: 40px 0px 55px 15px
+}
+
+.sectionTitle {
+  font-size: 16pt;
+  font-weight: bold;
+  margin: 28px 0px 8px 15px
+}
+
+.contentLine {
+  margin: 0px 0px 0px 15px
+}
+
+.publine {
+  font-size: 10pt;
+  margin: 0px 0px 10px 35px
+}
+
+.abstract {
+  font-size: 10pt;
+  margin: 0px 0px 10px 50px;
+  padding: 5px 15px 5px 15px;
+  background-color: #EEE;
+}
+.abstract p {
+  margin: 10px 0px 10px 0px
+}
+
+.sublist {
+  font-size: 10pt;
+  margin: 0px 0px 0px 50px;
+  padding: 0px 15px 0px 15px;
+  /*background-color: #EEE;*/
+}
+.sublistLine {
+  margin: 5px 0px 5px 0px
+}
+
+div.credit {
+  font-size: 10pt;
+  text-align: right;
+  margin-left: 154px;
+  width: 680px;
+  padding: 5px 35px 0px 35px;
+}
+
+div.credit a:link { 
+  color: #000000;
+}
+
+div.credit a:visited { 
+  color: #000000;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link { 
+  color: #4EA9DE;
+}
+
+a:visited { 
+  color: #4EA9DE;
+}
+
+a:hover { 
+  color: #000000;
+}
+
+a:active { 
+  color: #1371AE;
+}
+
