@@ -39,13 +39,13 @@ div.bodycontent {
 .intro {
   width: 280px;
   margin: 0 auto; /* centers the content */
-  padding-bottom: 30px;
+  padding-bottom: 10px;
 }
 
 .sectionTitle {
   font-size: 18pt;
   font-weight: bold;
-  margin-top: 40px;
+  margin-top: 60px;
   margin-bottom: 8px
 }
 
