@@ -21,10 +21,15 @@ div.header {
   text-align: center;
 }
 
+div.header .firstname {
+  padding-bottom: 0px;
+}
+
 div.header div.lastname {
   color: #000000;
   font-family: "MonarchTitling", "Gill Sans MT", sans-serif;
-  font-size: 44pt;
+  font-size: 34pt;
+  margin-top: -15px; /* shift up */
   padding-left: 20px; /* shifted slightly since the kerning of the 'A' makes it look left-skewed */
 }
 
@@ -38,38 +43,53 @@ div.bodycontent {
 }
 
 .sectionTitle {
-  font-size: 16pt;
+  font-size: 18pt;
   font-weight: bold;
-  margin: 28px 0px 8px 15px
-}
-
-.contentLine {
-  margin: 0px 0px 0px 15px
+  margin-top: 40px;
+  margin-bottom: 8px
 }
 
 .publine {
-  font-size: 10pt;
-  margin: 0px 0px 10px 35px
+  font-size: 12pt;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+.pubDescription {
+  font-size: 12pt;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .abstract {
   font-size: 10pt;
-  margin: 0px 0px 10px 50px;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  margin-left: auto; /* centers the content */
+  margin-right: auto; /* centers the content */
   padding: 5px 15px 5px 15px;
   background-color: #EEE;
+  width: 500px;
 }
 .abstract p {
-  margin: 10px 0px 10px 0px
+  margin-top: 2px;
+  margin-bottom: 10px;
 }
 
 .sublist {
-  font-size: 10pt;
-  margin: 0px 0px 0px 50px;
-  padding: 0px 15px 0px 15px;
+  font-size: 11pt;
   /*background-color: #EEE;*/
+  margin-top: 5px;
+  margin-bottom: 30px;
 }
 .sublistLine {
-  margin: 5px 0px 5px 0px
+  margin-top: 0px;
+  margin-bottom: 2px;  /* space between sublist items */
+}
+
+.affiliation {
+  font-size: 12pt;
+  margin-top: 10px;
+  margin-bottom: 0px;
 }
 
 div.credit {
