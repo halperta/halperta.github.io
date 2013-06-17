@@ -1,81 +1,105 @@
-body { 
-  font-family: "Helvetica", "arial", sans-serif;
+@font-face {
+  font-family: "MonarchTitling";
+  src: url("img/MonarchTitling.otf");
+}
+
+body {
+  font-family: "Gill Sans MT", "arial", sans-serif;
   font-size: 12pt;
-  background-color: #4d4d4d;
+  background-color: #ffffff;
   color: #000000;
-  background-repeat: no-repeat;
-  background-position: bottom left;
-  background-position: 85px 45px;
+  width: 600px;
+  text-align: center;
+  padding-bottom: 100px;
+  /*padding-left: 100px;*/
+  margin: 0 auto; /* centers the content */
 }
 
 div.header {
-  height: 109px;
+  padding-top: 50px;
+  padding-bottom: 40px;
+  text-align: center;
 }
 
-div.pageTitle {
-  color: #fff;
-  font-size: 44pt;
-  margin-left: 0px;
-  padding-top: 44px;
-  padding-left: 71px;
-  text-shadow: 6px 6px 20px #000;
+div.header .firstname {
+  padding-bottom: 0px;
 }
 
-div.bodycontent p {
-  line-height: 140%;
+div.header div.lastname {
+  color: #000000;
+  font-family: "MonarchTitling", "Gill Sans MT", sans-serif;
+  font-size: 34pt;
+  margin-top: -15px; /* shift up */
+  padding-left: 20px; /* shifted slightly since the kerning of the 'A' makes it look left-skewed */
 }
 
-div.bodyinnercontent {
-  margin-left: 64px;
-  width: 665px;
-  background-color: #fff;
-  border-radius: 8px;
-  -moz-border-radius: 8px;
-  padding: 40px 35px 60px 35px;
-  background-image: url(img/hannah_alpert-abrams.jpg);
-  background-repeat: no-repeat;
-  background-position: 370px 45px;
-  background-size: 45%;
+div.bodycontent {
 }
 
 .intro {
-  margin: 40px 0px 55px 15px
+  width: 280px;
+  margin: 0 auto; /* centers the content */
+  padding-bottom: 30px;
 }
 
 .sectionTitle {
-  font-size: 16pt;
+  font-size: 18pt;
   font-weight: bold;
-  margin: 28px 0px 8px 15px
-}
-
-.contentLine {
-  margin: 0px 0px 0px 15px
+  margin-top: 40px;
+  margin-bottom: 8px
 }
 
 .publine {
-  font-size: 10pt;
-  margin: 0px 0px 10px 35px
+  font-size: 12pt;
+  margin-top: 20px;
+  margin-bottom: 3px;
+}
+.pubDescription {
+  font-size: 12pt;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .abstract {
-  font-size: 10pt;
-  margin: 0px 0px 10px 50px;
+  font-size: 11pt;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  margin-left: auto; /* centers the content */
+  margin-right: auto; /* centers the content */
   padding: 5px 15px 5px 15px;
   background-color: #EEE;
+  width: 520px;
 }
 .abstract p {
-  margin: 10px 0px 10px 0px
+  margin-top: 5px;
+  margin-bottom: 10px;
 }
 
 .sublist {
-  font-size: 10pt;
-  margin: 0px 0px 0px 50px;
-  padding: 0px 15px 0px 15px;
+  font-size: 11pt;
   /*background-color: #EEE;*/
+  margin-top: 5px;
+  margin-bottom: 30px;
 }
 .sublistLine {
-  margin: 5px 0px 5px 0px
+  margin-top: 0px;
+  margin-bottom: 2px;  /* space between sublist items */
 }
+
+.affiliation {
+  font-size: 12pt;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.credit {
+  font-size: 10pt;
+  text-align: right;
+  margin-left: 154px;
+  width: 680px;
+  padding: 5px 35px 0px 35px;
+}
+
 
 div.credit {
   font-size: 10pt;
@@ -106,7 +130,7 @@ a:visited {
 }
 
 a:hover { 
-  color: #000000;
+  color: #0A659A;
 }
 
 a:active { 
