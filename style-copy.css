@@ -1,3 +1,7 @@
+@font-face {
+	font-family: "MonarchTitling";
+	src: url(img/MonarchTitling.otf) format("opentype");
+	}
 body { 
   font-family: "Gill Sans MT", "arial", sans-serif;
   font-size: 12pt;
@@ -23,16 +27,13 @@ div.firstName {
 div.pageTitle {
   color: #000000;
   font-family: "MonarchTitling", "Gill Sans MT", sans-serif;
-  font-size: 44pt;
+  font-size: 33pt;
   margin-left: 0px;
   padding-top: 90px;
   padding-left: 71px;
   text-align: center;
   text-shadow: 6px 6px 20px #000;
-    @font-face {
-	font-family: "MonarchTitling";
-	src: url(img/MonarchTitling.otf) format("opentype");
-	}
+    
 	}
 }
 
@@ -68,13 +69,13 @@ div.bodyinnercontent {
 }
 
 .publine {
-  font-size: 10pt;
+  font-size: 12pt;
   margin: 0px 0px 10px 35px
 }
 
 .abstract {
-  font-size: 10pt;
-  margin: 0px 0px 10px 50px;
+  font-size: 12pt;
+  margin: 10px 15% 10px 15%;
   padding: 5px 15px 5px 15px;
   background-color: #EEE;
 }
@@ -83,17 +84,17 @@ div.bodyinnercontent {
 }
 
 .sublist {
-  font-size: 10pt;
+  font-size: 12pt;
   margin: 0px 0px 0px 50px;
-  padding: 0px 15px 0px 15px;
+  padding: 0px 40px 0px 40px;
   /*background-color: #EEE;*/
 }
 .sublistLine {
-  margin: 5px 0px 5px 0px
+  margin: -10px 0px 10px 0px
 }
 
 div.credit {
-  font-size: 10pt;
+  font-size: 12pt;
   text-align: right;
   margin-left: 154px;
   width: 680px;
