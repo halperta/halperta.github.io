@@ -102,15 +102,15 @@ div.bodycontent {
   font-style: italic;
 }
 
-.credit a:link    { color: #000000; }
-.credit a:visited { color: #000000; }
+.credit a:link    { color: #444; }
+.credit a:visited { color: #444; }
 
 a {
   text-decoration: none;
 }
 
-a:link    { color: #4EA9DE; }
-a:visited { color: #4EA9DE; }
-a:hover   { color: #0A659A; }
+a:link    { color: #0A659A; }
+a:visited { color: #0A659A; }
+a:hover   { color: #4EA9DE; }
 a:active  { color: #1371AE; }
 
