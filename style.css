@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: "Cabin", "Gill Sans MT", "arial", sans-serif;
+  font-family: "Lato", "Gill Sans MT", "arial", sans-serif;
   font-size: 12pt;
   background-color: #ffffff;
   color: #000000;
@@ -69,7 +69,7 @@ div.bodycontent {
   margin-right: auto; /* centers the content */
   padding: 5px 15px 5px 15px;
   background-color: #EEE;
-  width: 520px;
+  width: 550px;
 }
 .abstract p {
   margin-top: 5px;
@@ -109,8 +109,8 @@ a {
   text-decoration: none;
 }
 
-a:link    { color: #0A659A; }
-a:visited { color: #0A659A; }
+a:link    { color: #1A75AA; }
+a:visited { color: #1A75AA; }
 a:hover   { color: #4EA9DE; }
 a:active  { color: #1371AE; }
 
