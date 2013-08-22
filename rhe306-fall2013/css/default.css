@@ -124,7 +124,7 @@ th, thead td {
 #wrap{
   margin: 1em auto 2em auto;
   text-align: left;
-  width: 65em;
+  width: 230mm;
 }
 
 
@@ -145,7 +145,7 @@ th, thead td {
 
 #pages { /* Parent Wrapper for inside boxes */
 /*  display: inline; */ /* IE Hack */
-  width: 12em;
+  width: 30mm;
   float: left;
   text-align: left;
   margin-right: 2em;
@@ -189,7 +189,7 @@ th, thead td {
 #content { /* Parent Wrapper for inside boxes */
 /*  display: inline; *//* IE Hack */
   float: right;
-  width: 44em;
+  width: 165mm;
   margin-left: 0.3em;
   margin-bottom: 5em;
 }
