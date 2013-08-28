@@ -59,7 +59,7 @@ pre {
 pre br { display: none; }
 
 h1, h2, h3 {
-  font-family: "Gill Sans";
+  font-family: "Gill Sans", "Arial";
   padding: 0;
   margin: 1.6em 0 0.6em -0.9em;
   line-height: 1.25em;
@@ -149,7 +149,7 @@ th, thead td {
   float: left;
   text-align: left;
   margin-right: 2em;
-  font-family: "Gill Sans";
+  font-family: "Gill Sans", "Arial";
   font-size: 11pt;
   text-align: right;
   border-right: 1px solid #ccc;
