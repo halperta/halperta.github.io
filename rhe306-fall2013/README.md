@@ -6,7 +6,7 @@
 In the repository root:
 
     cd site
-    jekyll
+    jekyll build
     rm -rf ../../halperta.github.com/rhe306-fall2013
     cp -rf _site ../../halperta.github.com/rhe306-fall2013
 
