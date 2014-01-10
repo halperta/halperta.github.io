@@ -37,7 +37,7 @@ div.bodycontent {
 }
 
 .intro {
-  width: 280px;
+  width: 320px; /*280px original */
   margin: 0 auto; /* centers the content */
   padding-bottom: 10px;
 }
