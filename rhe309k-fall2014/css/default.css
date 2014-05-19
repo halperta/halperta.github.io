@@ -38,16 +38,16 @@ img {
 }
 
 pre {
-  font-family: "Monaco", "DejaVu Sans Mono", "Courier New", "Courier";
-  font-size: 10pt;
+  font-family: "Helvetica Neue", "DejaVu Sans", "Verdana";
+  font-size: 12pt;
 }
 code {
-  font-family: "Monaco", "DejaVu Sans Mono", "Courier New", "Courier";
-  font-size: 11pt;
+  font-family: "Helvetica Neue", "DejaVu Sans", "Verdana";
+  font-size: 12pt;
 }
 pre code {
-  font-family: "Monaco", "DejaVu Sans Mono", "Courier New", "Courier";
-  font-size: 10pt;
+  font-family: "Helvetica Neue", "DejaVu Sans", "Verdana";
+  font-size: 12pt;
 }
 pre {
   margin: 0.3em 0 0.3em 0.9em;
@@ -70,6 +70,7 @@ h1 {
   font-size: 2em;
   margin-top: 0;
   padding-bottom: 0.3em;
+  padding-top:80px;
   border-bottom: 1px solid #808080;
 }
 
@@ -150,10 +151,12 @@ th, thead td {
   text-align: left;
   margin-right: 2em;
   font-family: "Gill Sans", "Arial";
-  font-size: 11pt;
+  font-size: 12pt;
   text-align: right;
   border-right: 1px solid #ccc;
   padding-right: 2em;
+  margin-top:80px;
+
 }
 #pages ol {
   list-style: none;
