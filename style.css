@@ -43,7 +43,7 @@ div.bodycontent {
 }
 
 .intro {
-  width: 400px; /*280px original ; then 320 for 3 sentences ; */ 
+  width: 420px; /*280px original ; then 320 for 3 sentences ; */ 
   margin: 0 auto; /* centers the content */
   padding-bottom: 10px;
 }
