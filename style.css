@@ -36,8 +36,14 @@ div.header div.lastname {
 div.bodycontent {
 }
 
+.photo {
+  width: 320px; /*280px original ; then 320 for 3 sentences ; */ 
+  margin: 0 auto; /* centers the content */
+  padding-bottom: 10px;
+}
+
 .intro {
-  width: 320px; /*280px original */
+  width: 420px; /*280px original ; then 320 for 3 sentences ; */ 
   margin: 0 auto; /* centers the content */
   padding-bottom: 10px;
 }
