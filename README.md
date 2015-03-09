@@ -1,2 +1,2 @@
-halperta.github.com
+halperta.github.io
 ===================
