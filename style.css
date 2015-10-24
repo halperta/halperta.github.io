@@ -56,6 +56,14 @@ div.bodycontent {
   margin-bottom: 8px
 }
 
+.sectionSubTitle {
+  color: #444;
+  font-size: 14pt;
+  font-weight: italic;
+  margin-top: 20px;
+  margin-bottom: 8px
+}
+
 .publine {
   font-size: 12pt;
   margin-top: 20px;
