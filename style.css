@@ -120,12 +120,26 @@ div.bodycontent {
 .blogDate {
   color: #990000;
   font-family: "MonarchTitling", "Gill Sans MT", sans-serif;
-  font-size: 30pt;
+  font-size: 20pt;
   margin-top: 15px; /* shift up */
   padding-left: 20px; /* shifted slightly since the kerning of the 'A' makes it look left-skewed */
 }
 
+.blogTitle {
+  color: #990000;
+  font-size: 15pt;
 }
+
+.blogContent {
+  font-size: 11pt;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  margin-left: auto; /* centers the content */
+  margin-right: auto; /* centers the content */
+  width: 550px;
+}
+
+
 
 .credit {
   color: #444;
