@@ -35,9 +35,9 @@ div.header div.lastname {
 
 div.header div.page {
 
-  color: #444;
+  color: #990000;
   font-family: "MonarchTitling", "Gill Sans MT", sans-serif;
-  font-size: 44pt;
+  font-size: 30pt;
   margin-top: -15px; /* shift up */
   padding-left: 20px; /* shifted slightly since the kerning of the 'A' makes it look left-skewed */
 }
