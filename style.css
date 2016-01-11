@@ -33,6 +33,15 @@ div.header div.lastname {
   padding-left: 20px; /* shifted slightly since the kerning of the 'A' makes it look left-skewed */
 }
 
+div.header div.page {
+
+  color: #444;
+  font-family: "MonarchTitling", "Gill Sans MT", sans-serif;
+  font-size: 44pt;
+  margin-top: -15px; /* shift up */
+  padding-left: 20px; /* shifted slightly since the kerning of the 'A' makes it look left-skewed */
+}
+
 div.bodycontent {
 }
 
@@ -106,6 +115,16 @@ div.bodycontent {
   font-size: 12pt;
   margin-top: 10px;
   margin-bottom: 0px;
+}
+
+.blogDate {
+  color: #990000;
+  font-family: "MonarchTitling", "Gill Sans MT", sans-serif;
+  font-size: 30pt;
+  margin-top: 15px; /* shift up */
+  padding-left: 20px; /* shifted slightly since the kerning of the 'A' makes it look left-skewed */
+}
+
 }
 
 .credit {
