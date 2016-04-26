@@ -26,6 +26,24 @@
 
 </script>
 
+<script language="javascript"> 
+function show_sublist(key) {
+    var ele = document.getElementById(key + "-sublist");
+    var plus = document.getElementById(key + "-pluslink");
+    var minus = document.getElementById(key + "-minuslink");
+    ele.style.display = "block";
+    plus.style.display = "none";
+    minus.style.display = "inline-block";
+}
+function hide_sublist(key) {
+    var ele = document.getElementById(key + "-sublist");
+    var plus = document.getElementById(key + "-pluslink");
+    var minus = document.getElementById(key + "-minuslink");
+    ele.style.display = "none";
+    plus.style.display = "inline-block";
+    minus.style.display = "none";
+}
+</script>
 
 <link rel="stylesheet" type="text/css" href="style.css" />
 
@@ -33,7 +51,7 @@
 <BODY class="homepage">
   <DIV class="header">
     <DIV class="lastname">Hannah and Dan</DIV>
-    <br><DIV class="page">Gifts</DIV>
+<!--     <br><DIV class="page">Gifts</DIV> -->
   </DIV>
   <DIV class="bodycontent">
 
@@ -42,9 +60,9 @@
       <span id="me-minuslink" style="display: none;"><a href="javascript:void(0)" onclick="hide_sublist('me')">[&ndash;]</a></span>
     </p>
     <div id="me-sublist" class="intro" style="display: none;">
-    
-  <img class="photo" src="img/beach.jpg" alt="Photo"/> </div>
 
+  <img class="photo" src="img/beach.jpg" alt="Photo"/> </div>
+  <p class="intro">
     Hannah and Dan will be married in a private ceremony on April 29, 2016. We are grateful for the love and support we have received for so many people who will be present in spirit on this day. 
     <br><br> We are filled with gratitude for the kind messages we have received from our family and friends  We know that gifts are gestures of love, but our own desire to keep our worldly possessions to a minimum, our very small apartment, and our feeling that marriage is a deeply personal act mean that we prefer not to receive gifts. We are, however, thrilled to receive cards (by mail!) from anyone at our address:
      <br><br> 1619 E. John St., Apt 303, <br>Seattle, WA 98112.
