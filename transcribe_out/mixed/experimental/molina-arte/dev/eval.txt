@@ -1,0 +1,82 @@
+All evals:
+Document: pl_blac_032_00048-1000.jpg
+CER: 0.3821656050955414
+CER, allow f->s: 0.3821656050955414
+WER, keep punc: 0.8974358974358975
+WER, keep punc, allow f->s: 0.8974358974358975
+WER, remove punc: 0.7863247863247863
+WER, remove punc, allow f->s: 0.7863247863247863
+
+Document: pl_blac_032_00049-1000.jpg
+CER: 0.13922942206654992
+CER, allow f->s: 0.13747810858143608
+WER, keep punc: 0.445
+WER, keep punc, allow f->s: 0.445
+WER, remove punc: 0.355
+WER, remove punc, allow f->s: 0.355
+
+Document: pl_blac_032_00050-1000.jpg
+CER: 0.23748862602365786
+CER, allow f->s: 0.23657870791628755
+WER, keep punc: 0.6089385474860335
+WER, keep punc, allow f->s: 0.6089385474860335
+WER, remove punc: 0.5754189944134078
+WER, remove punc, allow f->s: 0.5754189944134078
+
+Document: pl_blac_032_00051-1000.jpg
+CER: 0.30726256983240224
+CER, allow f->s: 0.3063314711359404
+WER, keep punc: 0.7398843930635838
+WER, keep punc, allow f->s: 0.7398843930635838
+WER, remove punc: 0.6589595375722543
+WER, remove punc, allow f->s: 0.6589595375722543
+
+Document: pl_blac_032_00052-1000.jpg
+CER: 0.26626626626626626
+CER, allow f->s: 0.26626626626626626
+WER, keep punc: 0.6287425149700598
+WER, keep punc, allow f->s: 0.6287425149700598
+WER, remove punc: 0.5329341317365269
+WER, remove punc, allow f->s: 0.5329341317365269
+
+Document: pl_blac_032_00053-1000.jpg
+CER: 0.31351351351351353
+CER, allow f->s: 0.31135135135135134
+WER, keep punc: 0.8108108108108109
+WER, keep punc, allow f->s: 0.8040540540540541
+WER, remove punc: 0.6283783783783784
+WER, remove punc, allow f->s: 0.6216216216216216
+
+Document: pl_blac_032_00054-1000.jpg
+CER: 1.2882059800664452
+CER, allow f->s: 1.2882059800664452
+WER, keep punc: 3.5098039215686274
+WER, keep punc, allow f->s: 3.5098039215686274
+WER, remove punc: 0.9852941176470589
+WER, remove punc, allow f->s: 0.9852941176470589
+
+Document: pl_blac_032_00055-1000.jpg
+CER: 0.27887788778877887
+CER, allow f->s: 0.27805280528052806
+WER, keep punc: 0.812807881773399
+WER, keep punc, allow f->s: 0.812807881773399
+WER, remove punc: 0.6059113300492611
+WER, remove punc, allow f->s: 0.6059113300492611
+
+Document: pl_blac_032_00056-1000.jpg
+CER: 0.18346957311534967
+CER, allow f->s: 0.18256130790190736
+WER, keep punc: 0.5024390243902439
+WER, keep punc, allow f->s: 0.5024390243902439
+WER, remove punc: 0.33170731707317075
+WER, remove punc, allow f->s: 0.33170731707317075
+
+
+Marco-avg total eval:
+CER: 0.37738660486316716
+CER, allow f->s: 0.37655462262174483
+WER, keep punc: 0.995095887944295
+WER, keep punc, allow f->s: 0.9943451371935442
+WER, remove punc: 0.6066587325772048
+WER, remove punc, allow f->s: 0.6059079818264542
+
