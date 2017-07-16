@@ -33,6 +33,10 @@ div.header div.lastname {
   padding-left: 20px; /* shifted slightly since the kerning of the 'A' makes it look left-skewed */
 }
 
+div.header div.lastname a {
+  color: #444;
+}
+
 div.header div.page {
 
   color: #990000;
@@ -44,6 +48,20 @@ div.header div.page {
 
 div.bodycontent {
 }
+
+.subPageLink {
+  color: #444;
+  font-size: 14pt;
+  font-style: italic;
+  margin-top: 20px;
+  margin-bottom: 8px
+}
+
+p.subPageLink a {
+  color: #B22222;
+}
+
+
 
 .photo {
   width: 320px; /*280px original ; then 320 for 3 sentences ; */ 
@@ -62,6 +80,14 @@ div.bodycontent {
   font-size: 18pt;
   font-weight: bold;
   margin-top: 60px;
+  margin-bottom: 8px
+}
+
+.sectionTopTitle {
+  color: #444;
+  font-size: 18pt;
+  font-weight: bold;
+  margin-top: 0px;
   margin-bottom: 8px
 }
 
