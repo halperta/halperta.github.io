@@ -37,6 +37,14 @@ div.header div.lastname a {
   color: #444;
 }
 
+div.header div.headlinks {
+  color: #444;
+  font-family: "MonarchTitling", "Gill Sans MT", sans-serif;
+  font-size: 15pt;
+  margin-top: -5px; /* shift up */
+  padding-left: 20px; /* shifted slightly since the kerning of the 'A' makes it look left-skewed */
+}
+
 div.header div.page {
 
   color: #990000;
