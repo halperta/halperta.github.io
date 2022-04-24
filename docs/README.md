@@ -1,6 +1,6 @@
 # HAA Notes
 * Edit fonts: sass -> so-simple - variables.scss then serif and sans serif font families. 
-* 
+* Edit fonts for posts: entries.scss
 
 # [So Simple Jekyll Theme][1]
 
