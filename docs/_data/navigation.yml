@@ -2,12 +2,12 @@
 
 - title: Home
   url: /
-- title: Scholarship
-  url: /categories/scholarship
-- title: Public Writing
-  url: /categories/Writing
+- title: Research
+  url: /categories/research
 - title: Higher Education
   url: /categories/highered
+- title: Digital Humanities
+  url: /categories/dh
 - title: Mentorship
   url: /mentorship/
 # - title: Projects by Category

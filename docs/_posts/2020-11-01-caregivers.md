@@ -8,6 +8,7 @@ tags:
   - Higher Education
   - Advocacy
   - COVID19
+  - Digital Humanities
 ---
 
 The COVID-19 pandemic has revealed our inability to support those who support others.

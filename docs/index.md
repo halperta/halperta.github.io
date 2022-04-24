@@ -7,7 +7,7 @@ entries_layout: grid
 
 Hello. 
 
-I am a justice-oriented scholar dedicated to publicly-funded higher education as a crucial part of our collective good. I work in the humanities, which encompasses the study of art, history, language, and culture. I write about labor in higher education, about the use of technology in accessing the past and reshaping the future, and about the importance of radical transparency, shared vulnerability, and collective action in higher education.
+I am a justice-oriented scholar dedicated to supporting publicly-funded higher education, which I believe is fundamental to our collective good. I work in the humanities, which encompasses the study of art, history, language, and culture. I write about labor in higher education, about the use of technology in accessing the past and reshaping the future, and about the importance of radical transparency, shared vulnerability, and collective action in higher education.
 
 I work in the Office of Digital Humanities at the National Endowment for the Humanities. I am a founding member of the [Visionary Futures Collective](https://visionary-futures-collective.github.io/). I am a vice president of AFGE Local 3403.
 
