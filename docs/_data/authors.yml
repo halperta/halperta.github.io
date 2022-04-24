@@ -1,0 +1,11 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Hannah Alpert-Abrams:
+  name: Hannah Alpert-Abrams
+  # picture: /images/bio-photo-2.jpg
+  twitter: "@hralperta"
+  links:
+    - title: Twitter
+      url: https://twitter.com/billyrick
+      icon: fab fa-twitter-square
