@@ -1,6 +1,7 @@
 ---
 title: "In and Beyond the Digital: Career Pathways for Humanists"
 image: 
+  path: /images/img_proj/1-post.png
   thumbnail: /images/img_proj/inandbeyond.png
 categories:
   - Public Speaking

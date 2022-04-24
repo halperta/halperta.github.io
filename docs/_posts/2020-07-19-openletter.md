@@ -1,6 +1,7 @@
 ---
 title: "Open letter to my friend, who I love, who wants to get a PhD in literature"
 image: 
+  path: /images/img_proj/1-post.png
   thumbnail: /images/img_proj/open.png
 categories:
   - Public Writing

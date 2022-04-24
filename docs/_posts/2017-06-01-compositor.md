@@ -1,6 +1,7 @@
 ---
 title: "Automatic Compositor Attribution in the First Folio of Shakespeare "
 image: 
+  path: /images/img_proj/1-post.png
   thumbnail: /images/img_proj/acl.png
 categories:
   - Scholarship

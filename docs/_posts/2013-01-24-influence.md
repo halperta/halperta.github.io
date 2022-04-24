@@ -1,6 +1,7 @@
 ---
 title: "Reading Under The Influence"
 image: 
+  path: /images/img_proj/1-post.png
   thumbnail: /images/img_proj/influence.png
 categories:
   - Public Writing

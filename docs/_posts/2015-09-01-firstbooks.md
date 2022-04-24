@@ -1,6 +1,7 @@
 ---
 title: "Reading the First Books: Multilingual, Early-Modern OCR for Primeros Libros"
 image: 
+  path: /images/img_proj/1-post.png
   thumbnail: /images/img_proj/firstbooks.png
 categories:
   - Scholarship

@@ -1,6 +1,7 @@
 ---
 title: "Irreversible: The Role of Digitization to Repurpose State Records of Repression"
 image: 
+  path: /images/img_proj/1-post.png
   thumbnail: /images/img_proj/ijtj.png
 categories:
   - Scholarship

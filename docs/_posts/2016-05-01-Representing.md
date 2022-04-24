@@ -1,6 +1,7 @@
 ---
 title: "Representing the Social History of Early Modern Printed Objects"
 image: 
+  path: /images/img_proj/1-post.png
   thumbnail: /images/img_proj/SE.png
 categories:
   - Scholarship

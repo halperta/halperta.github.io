@@ -1,6 +1,7 @@
 ---
 title: "Translating an Unreadable Novel: The Lost Steps in the United States"
 image: 
+  path: /images/img_proj/1-post.png
   thumbnail: /images/img_proj/ptero.png
 categories:
   - Scholarship
