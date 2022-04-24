@@ -13,15 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-theme: jekyll-theme-so-simple
+# theme: jekyll-theme-so-simple
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
-# remote_theme: mmistakes/so-simple-theme
-skin: "/assets/css/skins/light.css"
+skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Hannah Alpert-Abrams"
-description: "Building a better future for higher education."
+description: "Towards a better future for higher education."
 baseurl: # the subpath of your site, e.g. "/blog"
-url: "https://www.halperta.com/"
+url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/icon-vera2.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
@@ -36,10 +35,10 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-# disqus:
-#   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
+disqus:
+  shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: "hralperta" # site's Twitter username, e.g. "mmistakes"
+  username: # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
 liquid:
