@@ -1,3 +1,7 @@
+# HAA Notes
+* Edit fonts: sass -> so-simple - variables.scss then serif and sans serif font families. 
+* 
+
 # [So Simple Jekyll Theme][1]
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat-square)](https://raw.githubusercontent.com/mmistakes/so-simple-theme/master/LICENSE)

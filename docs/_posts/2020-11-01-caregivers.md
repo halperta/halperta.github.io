@@ -1,7 +1,7 @@
 ---
 title: "Caregivers Survey"
 image: 
-  thumbnail: /images/img_proj/pandemicphone.jpg
+  thumbnail: /images/img_proj/pandemicphone.png
 categories:
   - Visionary Futures Collective
 tags:
