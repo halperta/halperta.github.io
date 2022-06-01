@@ -1,14 +1,10 @@
 ---
-title: "Finding Your Purpose"
+title: "Higher Calling"
 image: 
   path: /images/img_proj/1-post.png
   thumbnail: /images/img_proj/purpose.png
 categories:
   - Shalperta Press
-tags:
-  - Higher Education
-  - COVID19
-  - Advocacy
 ---
 
 *Higher Calling* is a project for everyone who decided to become a scholar because they believed in the mission of higher education. "Finding Your Purpose" is a workbook to help all of us navigate the contradictions between the work we are driven to do and the conditions we face in our working lives.

@@ -79,6 +79,12 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+# Collections
+collections:
+  shalperta:
+    output: true
+    permalink: /:collection/:path/
+
 # Front Matter Defaults
 defaults:
   # Posts defaults
@@ -87,6 +93,13 @@ defaults:
       type: posts
     values:
       layout: post
+      share: true
+ # Shalperta
+  - scope:
+      path: "_shalperta"
+      type: shalperta
+    values:
+      layout: page
       share: true
 
 # Site Author
@@ -105,3 +118,5 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+
+
