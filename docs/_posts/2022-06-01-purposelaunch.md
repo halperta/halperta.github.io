@@ -32,6 +32,6 @@ Carter Hogan is a writer and new trans folk musician based in Austin, Texas.
 High Theory Podcast asks simple questions about difficult ideas from the academy.
  
 
-[Register for the project launch: June 17, 2022 at 3pm est](https://www.eventbrite.com/e/book-launch-finding-your-purpose-a-higher-calling-workbook-tickets-346145318967)
+[Register for the project launch: June 17, 2022 at 4pm est](https://www.eventbrite.com/e/book-launch-finding-your-purpose-a-higher-calling-workbook-tickets-346145318967)
 
 [Pre-Order a printed copy now.](https://square.link/u/LJQuKeHX)
