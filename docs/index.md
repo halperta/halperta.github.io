@@ -13,7 +13,11 @@ I work in the Office of Digital Humanities at the National Endowment for the Hum
 
 View my [cv](/pdf/halperta_cv.pdf) or my [resume](/pdf/halperta_resume.pdf).
 
-Contact me: halperta@gmail.com (personal); halpert-abrams@neh.gov (professional); [@hralperta](https://twitter.com/hralperta/) (twitter).
+Contact me: 
+- halperta@gmail.com (personal)
+- halpert-abrams@neh.gov (professional)
+- [@halperta@hcommons.social](https://hcommons.social/web/@Halperta) (Mastodon) 
+- I am currently on hiatus from Twitter: [@hralperta](https://twitter.com/hralperta/) (twitter).
 <br>
 
 # Recent Projects
