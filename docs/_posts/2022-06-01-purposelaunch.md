@@ -1,5 +1,5 @@
 ---
-title: "Project Launch: Finding Your Purpose"
+title: "Finding Your Purpose with the High Theory Podcast"
 image: 
   path: /images/img_proj/1-post.png
   thumbnail: /images/img_proj/hightheory.avif
@@ -10,6 +10,8 @@ tags:
   - COVID19
   - Advocacy
 ---
+
+Listen to a recording of the "Finding Your Purpose" book launch, hosted by the High Theory podcast: [http://hightheory.net/2022/09/13/finding-your-purpose-2/](http://hightheory.net/2022/09/13/finding-your-purpose-2/)
 
 High Theory Podcast presents the launch of Finding Your Purpose: a Higher Calling Workbook for Justice-Oriented Scholars in an Unjust World.
 
@@ -31,7 +33,7 @@ Carter Hogan is a writer and new trans folk musician based in Austin, Texas.
 
 High Theory Podcast asks simple questions about difficult ideas from the academy.
  
-
+<!-- 
 [Register for the project launch: June 17, 2022 at 4pm est](https://www.eventbrite.com/e/book-launch-finding-your-purpose-a-higher-calling-workbook-tickets-346145318967)
 
-[Pre-Order a printed copy now.](https://square.link/u/LJQuKeHX)
+[Pre-Order a printed copy now.](https://square.link/u/LJQuKeHX) -->
