@@ -1,7 +1,7 @@
 ---
-title: "Where the Money Resides: Demystifying Academic Job Negotiations" 
+title: "Where the Money Resides" 
 image: 
-  path: /images/img_proj/money.png
+  path: /images/img_proj/1-post.png
   thumbnail: /images/img_proj/money.png
 categories:
   - White Papers
