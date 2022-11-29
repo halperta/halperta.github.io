@@ -2,7 +2,7 @@
 title: "Finding Your Purpose with the High Theory Podcast"
 image: 
   path: /images/img_proj/1-post.png
-  thumbnail: /images/img_proj/hightheory.png
+  thumbnail: /images/img_proj/hightheory.avif
 categories:
   - Shalperta Press
 tags:
