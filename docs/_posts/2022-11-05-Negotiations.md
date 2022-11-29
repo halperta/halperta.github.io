@@ -1,5 +1,5 @@
 ---
-title: "Where the Money Resides: Demystifying Academic Job Negotiations"
+title: "Where the Money Resides: Demystifying Academic Job Negotiations" 
 image: 
   path: /images/img_proj/money.png
   thumbnail: /images/img_proj/money.png
