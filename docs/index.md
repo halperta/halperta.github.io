@@ -16,8 +16,8 @@ View my [cv](/pdf/halperta_cv.pdf) or my [resume](/pdf/halperta_resume.pdf).
 Contact me: 
 - halperta@gmail.com (personal)
 - halpert-abrams@neh.gov (professional)
-- [@halperta@hcommons.social](https://hcommons.social/web/@Halperta) (Mastodon) 
-- I am currently on hiatus from Twitter: [@hralperta](https://twitter.com/hralperta/) (twitter).
+- <a rel="me" href="https://hcommons.social/@Halperta">@halperta@hcommons.social </a> (mastodon)
+- I am currently on hiatus from Twitter: [@hralperta](https://twitter.com/hralperta/) 
 <br>
 
 # Recent Projects
