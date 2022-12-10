@@ -1,5 +1,5 @@
 ---
-title: Public writing
+title: Media
 layout: category
 permalink: /categories/media/
 taxonomy: Media
