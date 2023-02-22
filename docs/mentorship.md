@@ -13,7 +13,7 @@ Are you a student or contingent worker interested in speaking with me about my c
 Email me to schedule a conversation. Some things you might include in your email: a little bit about yourself (where you work/study, what you're interested in, etc.) and what it is about my work that particularly interests you.
 
 
-If you're not sure how to conduct an informational interview, check out this great resource from the Job Market Support Network: Informational Interviewing for PhDs by Dr. Susan Martin, University of Maryland.
+If you're not sure how to conduct an informational interview, check out this great resource from the Job Market Support Network: [Informational Interviewing for PhDs by Dr. Susan Martin, University of Maryland](https://hcommons.org/docs/informational-interviewing-for-phds/).
 
 Once we've spoken, I consider you part of my professional network, and would be happy to hear updates on your career search or to answer any additional questions that come to mind, to the best of my ability. Please note that an informational interview does not mean I'll be able to help you get a job at my agency, or anywhere else for that matter. I also can't promise that I will immediately recognize you if we meet again --- I am truly awful at names and faces. Please don't take it personally!
 
