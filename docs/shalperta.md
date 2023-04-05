@@ -17,7 +17,7 @@ Read it! Display it! Give it to a friend! Give it to your hamster! Cut it up and
 # How much does it cost?
 Most of our projects are free.
 
-#But I want to pay for it
+# But I want to pay for it
 We will accept up to $5 to help with shipping expenses via venmo (@halperta - 9400).
 
 Want to give more money? Send some support to [Mountain Access Brigade](https://abortionfunds.org/fund/mountain-access-brigade/), our local abortion fund.
