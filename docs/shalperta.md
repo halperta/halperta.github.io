@@ -42,4 +42,3 @@ If you mean you don't want to receive mail from us, you can email shalpertapress
 
 If you mean you don't like this, the never ending horror of the particular political and social moment we find ourselves in, we know. It's rough out here. We hope some printed ephemera can help a little bit.
 
-[Return to Shalperta Press](../)
