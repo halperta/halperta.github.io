@@ -11,7 +11,7 @@ I am a justice-oriented scholar dedicated to supporting publicly-funded higher e
 
 I work in the Office of Data and Evaluation at the National Endowment for the Humanities. I am a founding member of the [Visionary Futures Collective](https://visionary-futures-collective.github.io/). I am a vice president of AFGE Local 3403. The views on this website do not reflect those of the NEH or the federal government.
 
-View my [cv](/pdf/halperta_cv.pdf) or my [resume](/pdf/halperta_resume.pdf).
+View my [cv](/pdf/halperta_proCV.pdf) or my [resume](/pdf/halperta_resume.pdf).
 
 Contact me: 
 - halperta@gmail.com (personal)
