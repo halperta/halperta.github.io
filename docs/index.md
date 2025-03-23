@@ -16,10 +16,9 @@ I am a founding member of the [Visionary Futures Collective](https://visionary-f
 View my [cv](/pdf/halperta_cv.pdf) or my [resume](/pdf/halperta_resume.pdf).
 
 Contact me: 
-- halperta@gmail.com (personal)
-- halpert-abrams@neh.gov (professional)
-- <a rel="me" href="https://hcommons.social/@Halperta">@halperta@hcommons.social </a> (mastodon)
-- I am currently on hiatus from Twitter: [@hralperta](https://twitter.com/hralperta/) 
+- halperta@gmail.com
+- Bluesky: <a href="https://bsky.app/profile/halperta.bsky.social>halperta.bsky.social</a>
+- <del>Twitter: [@hralperta](https://twitter.com/hralperta/) </del>
 <br>
 
 # Recent Projects
