@@ -18,7 +18,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Hannah Alpert-Abrams"
-description: "Towards a better future for higher education."
+description: "Towards a better future for the humanities."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "http://halperta.github.io"
 logo: "/images/icon-vera2.png"
