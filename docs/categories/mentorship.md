@@ -1,18 +1,18 @@
 ---
 title: Work With Me
 layout: page
-permalink: /mentorship/
+permalink: /categories/mentorship/
 ---
 
 # Hire Me
-In March of 2025, I left my position as a Senior Program Officer at the National Endowment for the Humanities. A week later, DOGE agent entered the NEH offices. Two months later, my office no longer existed, and more than 70% of staff had been laid off.
+In March of 2025, I left my position as a Senior Program Officer at the National Endowment for the Humanities. A week later, DOGE agents entered the NEH offices. Two months later, my office no longer existed, and more than 70% of staff had been laid off.
 
-As I determine my next professional steps, I am available to teach asynchronous courses and give workshops and guest lectures in the following areas: 
+As I determine my next professional steps, I am available to teach asynchronous courses and give virtual or in-person workshops and guest lectures in the following topics: 
 * Finding your professional purpose in a time of crisis
-* Federal funding and the future of humanities research
+* Federal funding and the future of humanities funding
 * Community-centered digital humanities
 
-I provide support to humanists thinking about their careers in three ways. I conduct informational interviews with students and contingent workers. I provide mentorship to students. And I occasionally speak on career panels at conferences or universities. This page provides information on how and when to get in touch with me for any of these kinds of support. 
+I am one of many federal humanities workers who are underemployed. Please reach out if you want to talk about these or other opportunities. If I'm not available, I'm happy to connect you with others who might be a better fit. 
 
 # Informational Interviews
 
