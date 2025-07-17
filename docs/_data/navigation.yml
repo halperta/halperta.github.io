@@ -4,16 +4,16 @@
   url: /
 - title: Research
   url: /categories/research
-- title: Higher Education
-  url: /categories/highered
+- title: Advocacy
+  url: /categories/advocacy
 - title: Digital Humanities
   url: /categories/dh
-- title: Media
-  url: /categories/media
-- title: Mentorship
+# - title: Media
+#   url: /categories/media
+- title: Work With Me
   url: /mentorship/
-- title: Shalperta Press
-  url: /shalperta/
+# - title: Shalperta Press
+#   url: /shalperta/
 # - title: Projects by Topic
 #   url: /tags/
 # - title: Search

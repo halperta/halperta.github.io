@@ -8,6 +8,7 @@ categories:
 tags:
   - Higher Education
   - Graduate School
+  - Advocacy
 ---
 
 First published on Medium, July 19, 2020. [View on Medium](https://halperta.medium.com/open-letter-to-my-friend-who-i-love-who-wants-to-get-a-phd-in-literature-87392dabec16)

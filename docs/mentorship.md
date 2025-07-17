@@ -1,8 +1,16 @@
 ---
-title: Mentorship
+title: Work With Me
 layout: page
 permalink: /mentorship/
 ---
+
+# Hire Me
+In March of 2025, I left my position as a Senior Program Officer at the National Endowment for the Humanities. A week later, DOGE agent entered the NEH offices. Two months later, my office no longer existed, and more than 70% of staff had been laid off.
+
+As I determine my next professional steps, I am available to teach asynchronous courses and give workshops and guest lectures in the following areas: 
+* Finding your professional purpose in a time of crisis
+* Federal funding and the future of humanities research
+* Community-centered digital humanities
 
 I provide support to humanists thinking about their careers in three ways. I conduct informational interviews with students and contingent workers. I provide mentorship to students. And I occasionally speak on career panels at conferences or universities. This page provides information on how and when to get in touch with me for any of these kinds of support. 
 
@@ -19,14 +27,17 @@ Once we've spoken, I consider you part of my professional network, and would be 
 
 # Students and Interns
 
-Have you worked with me as a student or intern? If I have taught a class you were in or supervised you as an intern, I consider it part of my job to do the following: have regular conversations about your studies and career, provide feedback on your job materials, and write letters of recommendation.
+Have you worked with me as a student or intern? If I have taught a class you were in or supervised you as an intern, I consider it part of my job to do the following: 
+* Have regular conversations about your studies and career
+* Provide feedback on your job materials
+* Write letters of recommendation.
 
 If you want a letter of recommendation or for me to serve as a reference, please provide the following: a copy of your resume/cv and cover letter, a copy of the job description, and a brief description of anything you would particularly like me to cover when speaking with the search committee. If you were my student, please note that I may not be the best person to write a letter: status matters, and faculty on the tenure track matter more. If you were my intern at the NEH, I am happy to speak in my capacity as an NEH staff member, which carries a little more weight. For letters, please give me at least two weeks notice.
 
 If you are a student who I have worked with in any capacity and just want to talk about career stuff, don't be afraid to reach out! I am always glad to think through career possibilities with you, and if I know what you're looking for, I'll be better able to connect you with colleagues or pass on things that may be of interest. Send me an email with a brief description of what's going on in your professional life and we can find a time to talk.
 
-# Public speaking
+<!-- # Public speaking
 
 I am occasionally able to speak publicly about my career trajectory on panels or at campuses. If you are a university employee who would like me to speak on your campus, please provide information about how my presentation will be part of a more comprehensive initiative to improve career experiences for grad students, and how you will be compensating speakers. Please also note that I am a white cis woman and I prefer not to take part in all-white panels or speaker series. [Here's an article about how to invite an alt-ac speaker to campus.](https://halperta.medium.com/so-you-want-to-invite-an-alt-ac-to-speak-on-your-campus-a46da71366d0)
 
-If you are a graduate student creating your own bottom-up career initiative in the absence of institutional support, don't hesitate to reach out! If I'm not able to participate, I'd be glad to share resources and help connect you with others who might be. As above, please make sure to include some info about what kinds of support your institution is providing... or not. 
+If you are a graduate student creating your own bottom-up career initiative in the absence of institutional support, don't hesitate to reach out! If I'm not able to participate, I'd be glad to share resources and help connect you with others who might be. As above, please make sure to include some info about what kinds of support your institution is providing... or not.  -->

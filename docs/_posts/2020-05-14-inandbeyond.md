@@ -9,6 +9,8 @@ tags:
   - Higher Education
   - Graduate School
   - Careers
+  - Advocacy
+  - Digital Humanities
 ---
 
 Virtual Presentation for the Medieval Academy of America.
