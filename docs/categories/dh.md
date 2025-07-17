@@ -6,8 +6,6 @@ taxonomy: Digital Humanities
 show_excerpts: false
 entries_layout: grid
 ---
-
-<p style="text-align: center;">I am a program specialist in the Office of Digital Humanities at the National Endowment for the Humanities, where I work to make DH funding more accessible and impactful.</p>
-<p style="text-align: center;">My own DH practice involves both redesigning technologies or using them in unfamiliar ways to correct for the violence that colonialism, neoliberalism, and capitalism have had on our relationship to information, history, and each other.</p>
+<p style="text-align: center;"> Since the summer of 2013, when I attended the California Rare Books School and first learned about how people were using digital technologies to make rare books more accessible, I have been working in and around digital humanities: as a scholar, as an activist, as an educator, and as a grantmaker.
 
 # Digital Humanities Projects
