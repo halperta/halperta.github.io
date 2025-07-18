@@ -12,6 +12,8 @@ As I determine my next professional steps, I am available to teach asynchronous 
 * Federal funding and the future of humanities funding
 * Community-centered digital humanities
 
+I am also available to write short and long-form essays for various publics on my areas of itnerest.
+
 I am one of many federal humanities workers who are underemployed. Please reach out if you want to talk about these or other opportunities. If I'm not available, I'm happy to connect you with others who might be a better fit. 
 
 # Informational Interviews
