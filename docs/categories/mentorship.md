@@ -7,14 +7,21 @@ permalink: /categories/mentorship/
 # Hire Me
 In March of 2025, I left my position as a Senior Program Officer at the National Endowment for the Humanities. A week later, DOGE agents entered the NEH offices. Two months later, my office no longer existed, and more than 70% of staff had been laid off.
 
-As I determine my next professional steps, I am available to teach asynchronous courses and give virtual or in-person workshops and guest lectures in the following topics: 
-* Finding your professional purpose in a time of crisis
-* Federal funding and the future of humanities funding
+I am available for public speaking, consultations, guest lectures, and workshops on the following topics:
+* [Finding Your Purpose](/shalperta%20press/purpose/) in mission-oriented careers (and career pathways for humanists)
+* [Taking Action in Higher Education](/shalperta%20press/risk/)
 * Community-centered digital humanities
 
-I am also available to write short and long-form essays for various publics on my areas of itnerest.
+My rates are sliding scale as follows:
+* Guest lectures: $75-$125
+* Public speaking and workshops: $500-$1500
+* Consultations: $75/hour after the first meeting
+* Informational Interviews: free! Read below.
 
-I am one of many federal humanities workers who are underemployed. Please reach out if you want to talk about these or other opportunities. If I'm not available, I'm happy to connect you with others who might be a better fit. 
+I also have limited availability to teach multi-week or semester-length online courses on digital humanities or funding, typically within humanities or information studies programs. 
+
+Do you have paid opportunities that may be of interest to former federal workers? I have a strong network and am happy to pass information along. 
+
 
 # Informational Interviews
 
