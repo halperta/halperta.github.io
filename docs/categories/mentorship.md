@@ -14,7 +14,7 @@ As I determine my next professional steps, I am available for public speaking, c
 
 My rates are sliding scale as follows:
 * Guest lectures: $75-$125
-* Public speaking and workshops: $500-$1500, depending on details
+* Public speaking and workshops: $250-$1500, depending on details
 * Consultations: $60-$75/hour after the first (free) meeting
 * Informational Interviews: free! Read below.
 
