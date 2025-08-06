@@ -15,7 +15,7 @@ As I determine my next professional steps, I am available for public speaking, c
 My rates are sliding scale as follows:
 * Guest lectures: $75-$125
 * Public speaking and workshops: $500-$1500, depending on details
-* Consultations: $75/hour after the first meeting
+* Consultations: $60-$75/hour after the first (free) meeting
 * Informational Interviews: free! Read below.
 
 I also have limited availability to teach multi-week or semester-length online courses on digital humanities or funding, typically within humanities or information studies programs. 
