@@ -5,22 +5,20 @@ permalink: /categories/mentorship/
 ---
 
 # Hire Me
-In March of 2025, I left my position as a Senior Program Officer at the National Endowment for the Humanities. A week later, DOGE agents entered the NEH offices. Two months later, my office no longer existed, and more than 70% of staff had been laid off.
+I am a co-founder of [Sidra Collaborative](https://sidracollaborative.com/), which partners with funding organizations and communities in the arts, culture, and humanities to build transparency, equity, and impact in grantmaking and philanthropy. Visit our website to learn more about our work, or email hello@sidracollaborative.com.
 
-As I determine my next professional steps, I am available for public speaking, consultations, guest lectures, and workshops on the following topics:
+I am also available for public speaking, consultations, guest lectures, and workshops. My offerings include:
 * [Finding Your Purpose](/shalperta%20press/purpose/): navigating justice-oriented careers in times of crisis
 * [Taking Action in Higher Education](/shalperta%20press/risk/): understanding our role in institutional change
 * Community-centered digital humanities
 
 My rates are sliding scale as follows:
-* Guest lectures: $75-$125
+* Guest lectures: $100-$200
 * Public speaking and workshops: $250-$1500, depending on details
 * Consultations: $60-$75/hour after the first (free) meeting
 * Informational Interviews: free! Read below.
 
 I also have limited availability to teach multi-week or semester-length online courses on digital humanities or funding, typically within humanities or information studies programs. 
-
-Do you have paid opportunities that may be of interest to former federal workers? Even if the position isn't a good fit for me, I have a strong network and am happy to pass information along. 
 
 
 # Informational Interviews
