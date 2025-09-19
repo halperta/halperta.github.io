@@ -20,48 +20,37 @@ Everything is *hard* and *expensive* so we're turning Hannah's backyard into a f
 * Friday 11/21 9-1pm
 
 # Logistics
-*Who is responsible for this?*
+*Who is responsible for this?* \\
 This coffee is co-hosted by Hannah, Saul, Claire, and Rhea.
 
-*Can I bring my pet?*
-
+*Can I bring my pet?* \\
 Yes! On a leash!
 
-*Can I bring my kids?*
-
+*Can I bring my kids?* \\ 
 Yes!
 
-*Can I bring my friends?*
-
+*Can I bring my friends?* \\
 Yes!
 
-*What else can I bring?*
-
-Nothing! We want this to be easy.
-
+*What else can I bring?* \\
+Nothing! We want this to be easy. \\
 (A folding chair or blanket to sit on if you have one.)
 
-*Will there be food?*
-
+*Will there be food?* \\
 We'll have coffee and tea and light snacks. Feel free to bring your own.
 
-*What is the seating like?*
-
+*What is the seating like?*\\
 We'll have tables and chairs, outside and in the open garage.
 
-*What will we do?*
-
+*What will we do?* \\
 Hang out, get work done, or you can bring crafts or games.
 
-*Are there bathrooms?*
-
+*Are there bathrooms?* \\
 Yes! Inside up a short flight of stairs.
 
-*Is there wifi?*
-
+*Is there wifi?* \\
 Yes, but it's not great outside.
 
-*What about covid protections?*
-
+*What about covid protections?* \\
 You are welcome to mask! We will have an air filter running inside.
 
