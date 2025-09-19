@@ -48,8 +48,8 @@ Hang out, get work done, or you can bring crafts or games.
 *Are there bathrooms?* \\
 Yes! Inside up a short flight of stairs.
 
-*Is there wifi?* \\
-Yes, but it's not great outside.
+*Is there wifi? Are there outlets?* \\
+Yes, there is wifi, but it's not great outside. There's one extension cord and outlets in the garage, but it's limited.
 
 *What about covid protections?* \\
 You are welcome to mask! We will have an air filter running inside.
