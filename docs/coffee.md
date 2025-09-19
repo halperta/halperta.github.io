@@ -20,6 +20,9 @@ Friday 11/14 9-1 pm
 Friday 11/21 9-1pm
 
 # Logistics
+*Who is responsible for this?*
+This coffee is co-hosted by Hannah, Saul, Claire, and Rhea.
+
 *Can I bring my pet?*
 Yes! On a leash!
 
