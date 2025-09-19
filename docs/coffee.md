@@ -26,7 +26,7 @@ This coffee is co-hosted by Hannah, Saul, Claire, and Rhea.
 *Can I bring my pet?* \\
 Yes! On a leash!
 
-*Can I bring my kids?* \\ 
+*Can I bring my kids?* \\
 Yes!
 
 *Can I bring my friends?* \\
