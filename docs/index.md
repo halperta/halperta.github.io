@@ -24,7 +24,7 @@ Since 2011, I have held positions in universities, academic libraries, and the c
 I have written and spoken extensively about labor and careers in the humanities. From 2021-2025, I was the acting unit vice president of NEH AFGE Local 3403, and in 2020, I co-founded the [Visionary Futures Collective](https://visionary-futures-collective.github.io/), a loosely organized group of humanities professionals dedicated to labor issues during the first years of the coronavirus pandemic. [Learn more about my advocacy work here.](/categories/advocacy/)
 
 
-View my [cv](/pdf/halperta_cv.pdf). (Stay tuned for an updated resume!)
+View my [cv](/pdf/halperta_cv.pdf) or [resume](/pdf/halperta_resume.pdf)
 
 # Contact me: 
 - halperta@gmail.com
