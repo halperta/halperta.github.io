@@ -4,7 +4,7 @@ layout: page
 permalink: /categories/mentorship/
 ---
 
-# Grantmaking in arts and culture
+# Grantmaking in Arts and Culture
 I am a co-founder of [Sidra Collaborative](https://sidracollaborative.com/), which partners with funding organizations and communities in the arts, culture, and humanities. We offer assessment and capacity-building services to grantmakers as well as professional development for those seeking funding. Visit our [website](https://sidracollaborative.com/) to learn more about our work, or email hello@sidracollaborative.com.
 
 # Developmental Editing and Writing

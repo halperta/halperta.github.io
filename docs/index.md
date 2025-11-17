@@ -9,7 +9,7 @@ Hello.
 
 I am a justice-oriented worker dedicated to education, cultural heritage, and public knowledge. 
 
-I write for academic and general audiences, provide consulting services, and collaborate on creative projects. [Learn more about working with me.](/categories/mentorship/)
+I write for academic and general audiences, provide consulting and editorial services, and collaborate on creative projects. [Learn more about working with me.](/categories/mentorship/)
 
 I wrote two workbooks: one about [finding your professional purpose](/shalperta%20press/purpose/) and another about [taking action to resist fascism on campus](https://halperta.com/shalperta%20press/risk/). I also collaborated on an [Academic Tarot deck](https://halperta.com/visionary%20futures%20collective/tarot/). 
 
