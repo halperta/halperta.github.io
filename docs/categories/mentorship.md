@@ -4,10 +4,16 @@ layout: page
 permalink: /categories/mentorship/
 ---
 
-# Hire Me
-I am a co-founder of [Sidra Collaborative](https://sidracollaborative.com/), which partners with funding organizations and communities in the arts, culture, and humanities to build transparency, equity, and impact in grantmaking and philanthropy. Visit our website to learn more about our work, or email hello@sidracollaborative.com.
+# Grantmaking in arts and culture
+I am a co-founder of [Sidra Collaborative](https://sidracollaborative.com/), which partners with funding organizations and communities in the arts, culture, and humanities. We offer assessment and capacity-building services to grantmakers as well as professional development for those seeking funding. Visit our [website](https://sidracollaborative.com/) to learn more about our work, or email hello@sidracollaborative.com.
 
-I am also available for public speaking, consultations, guest lectures, and workshops. My offerings include:
+# Developmental Editing and Writing
+Since 2009, I have been working with academic and scholarly writers to transform big ideas into publishable manuscripts. If you are a faculty member planning for a sabbatical, a recent PhD seeking external support to transform your dissertation, or a former academic trying to complete a writing project alongside other commitments, I might be a good fit for you.
+
+Send me an email to learn more about working with me or to set up a free consultation: halperta@gmail.com.
+
+# Teaching and Public Speaking
+Invite me as a guest lecturer or to speak at your event! My offerings include:
 * [Finding Your Purpose](/shalperta%20press/purpose/): navigating justice-oriented careers in times of crisis
 * [Taking Action in Higher Education](/shalperta%20press/risk/): understanding our role in institutional change
 * Community-centered digital humanities
@@ -15,11 +21,6 @@ I am also available for public speaking, consultations, guest lectures, and work
 My rates are sliding scale as follows:
 * Guest lectures: $100-$200
 * Public speaking and workshops: $250-$1500, depending on details
-* Consultations: $60-$75/hour after the first (free) meeting
-* Informational Interviews: free! Read below.
-
-I also have limited availability to teach multi-week or semester-length online courses on digital humanities or funding, typically within humanities or information studies programs. 
-
 
 # Informational Interviews
 
