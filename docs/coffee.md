@@ -4,7 +4,7 @@ layout: page
 permalink: /coffee/
 ---
 
-Everything is *hard* and *expensive* so we're turning Hannah's backyard into a free coffee house. Come drink coffee, eat snacks, hang out, or get some work done. \\ 
+Everything is *hard* and *expensive* so we're turning Hannah's backyard into a free coffee house. Come drink coffee, eat snacks, hang out, or get some work done. 
 
 **November 2025 update:** From December - February, we're moving indoors to Saul and Claire's house! Contact us for the address.
 
