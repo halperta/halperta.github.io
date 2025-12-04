@@ -8,7 +8,7 @@ permalink: /categories/editing/
 
 Since 2009, I have been partnering with non-fiction and academic writers to transform big ideas into publishable manuscripts. 
 
-I work with visionary non-fiction writers (like you!), including current and former academics and career professionals. I primarily worked with people in the humanities, social sciences, psychology, business, and journalism. I have worked on academic projects published with university presses as well as general-audience books published in the mainstream press. Ask me about the time I worked on a New York Times best seller.
+I work with visionary non-fiction writers (like you!), including current and former academics and career professionals. I have worked with people in the humanities, social sciences, psychology, business, and journalism. I have worked on academic projects published with university presses as well as general-audience books published in the mainstream press. Ask me about the time I worked on a New York Times best seller.
 
 You might want to work with me if you are:
 * Attempting a book-length project for the first time and unsure how to begin
@@ -56,7 +56,7 @@ I will read a single chapter and provide more detailed feedback and recommendati
 ### Editorial Support
 I can provide long-term editorial support as you write your book in the form of chapter and manuscript feedback. This would involve setting a timeline for completion, reading and providing detailed feedback on chapters as you complete them, and a final manuscript review. While packages will vary depending on the length of the project and style of writing, for a 100,000 word monograph the costs would be approximately:
 * $300 for each chapter (including written feedback and a meeting)
-* $1500 for the full manuscript review (including written feedback and a meeting)
+* $1700 for the full manuscript review (including written feedback and a meeting)
 
 # Why me
 There are lots of people offering editorial services out there. Like picking a therapist, picking an editor or writing coach is about both expertise and fit. You want to find someone who is extremely good at understanding language and structure. But you also want someone whose values and approach to the work aligns with your own.
