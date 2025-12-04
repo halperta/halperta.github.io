@@ -10,7 +10,7 @@ I am a co-founder of [Sidra Collaborative](https://sidracollaborative.com/), whi
 # Developmental Editing and Writing
 Since 2009, I have been working with academic and scholarly writers to transform big ideas into publishable manuscripts. If you are a faculty member planning for a sabbatical, a recent PhD seeking external support to transform your dissertation, or a former academic trying to complete a writing project alongside other commitments, I might be a good fit for you.
 
-Send me an email to learn more about working with me or to set up a free consultation: halperta@gmail.com.
+[Learn more about my editorial and writing services.](../editing/)
 
 # Teaching and Public Speaking
 Invite me as a guest lecturer or to speak at your event! My offerings include:
