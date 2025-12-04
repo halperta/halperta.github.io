@@ -43,7 +43,7 @@ Some examples of how we might work together are below:
 ## Pricing Example: Getting Unstuck
 You have been working on a book project for six months and it's just not moving forward. You don't need me to read the project, but you need some intensive work to get refocused and come up with a strategy for getting back on track.
 
-After an initial consultation, we decide to schedule a three-hour writing retreat plus two individual meetings, at an hourly rate of $90. You request additional accountability support over the next few months, which will involve an additional four hours ($360).
+After an initial consultation, we decide to schedule a three-hour writing retreat plus two individual meetings, at an hourly rate of $90. You request additional accountability support over the next few months, which we price out to an additional four hours of work ($360).
 
 ## Pricing Example: Manuscript review and revision
 You have been working for five years on a research project that you hope to turn into a monograph. You've written two chapters and one article that will become a chapter (about 30,000 words or 240 pages), but you want help figuring out how to get it into shape and turn it into something you can send to an academic press.
