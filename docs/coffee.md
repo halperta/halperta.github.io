@@ -11,20 +11,20 @@ Everything is *hard* and *expensive* so we're turning Hannah's backyard into a f
 # When
 *We'll update this if there are changes for weather etc.*
 
-* Friday 12/5 9-1 pm
-* Friday 12/12 9-1 pm
-* ~~Friday 12/19 9-1 pm~~ No Coffee Today!
+* Friday 12/5 9:30-1 pm
+* Friday 12/12 9:30-1 pm
+* ~~Friday 12/19 9:30-1 pm~~ No Coffee Today!
 * Saturday 12/20 9:30-1pm Holiday Party!
-* ~~Friday 12/27 9-1 pm~~ No Coffee Today!
-* ~~Friday 1/2 9-1 pm~~ No Coffee Today!
-* Friday 1/9 9-1 pm
-* Friday 1/16 9-1 pm
-* Friday 1/23 9-1 pm
-* Friday 1/30 9-1pm
-* Friday 2/6 9-1pm
-* Friday 2/13 9-1pm
-* Friday 2/20 9-1pm
-* Friday 2/27 9-1pm
+* ~~Friday 12/27 9:30-1 pm~~ No Coffee Today!
+* ~~Friday 1/2 9:30-1 pm~~ No Coffee Today!
+* Friday 1/9 9:30-1 pm
+* Friday 1/16 9:30-1 pm
+* Friday 1/23 9:30-1 pm
+* Friday 1/30 9:30-1pm
+* Friday 2/6 9:30-1pm
+* Friday 2/13 9:30-1pm
+* Friday 2/20 9:30-1pm
+* Friday 2/27 9:30-1pm
 
 # Logistics
 *Who is responsible for this?* \\
