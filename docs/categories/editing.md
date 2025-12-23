@@ -34,29 +34,31 @@ I primarily work with non-fiction writers who are developing book-length manuscr
 # Pricing and Structure
 Pricing and structure varies from case to case. In general, we would first hold an intake session to discuss your needs. 
 
-You might decide that you want to schedule one-off conversations as needed, in which case you would pay a set hourly rate of $90/hour for each session. 
+You might decide that you want to schedule one-off conversations as needed, in which case you would pay a sliding-scale rate of $95-$110 for each session. 
 
-In other cases, you might be looking for a more involved and collaborative process. After our consultation, I would provide a proposal for either a) a monthly rate or b) a cost range based on the hours of work we expect the project will require. You would then be billed for the number of hours I actually worked.
+In other cases, you might be looking for a more involved and collaborative process. After our consultation, I would provide a proposal for either a) a monthly rate or b) a cost range based on the hours of work we expect the project will require. You would then be billed for the number of hours I actually worked. 
+
+In some cases I may be able to offer reduced rates.
 
 Some examples of how we might work together are below:
 
 ## Pricing Example: Getting Unstuck
-You have been working on a book project for six months and it's just not moving forward. You don't need me to read the project, but you need some intensive work to get refocused and come up with a strategy for getting back on track.
+You have been working on a book project for six months (or six years) and it's just not moving forward. You don't need me to read the project, but you need some intensive work to get refocused and come up with a strategy for getting back on track.
 
 After an initial consultation, we decide to schedule a three-hour writing retreat plus two individual meetings, at an hourly rate of $90 ($450). You then request additional accountability support over the next few months, which we price out to an additional four hours of work ($360).
 
 ## Pricing Example: Manuscript review and revision
 You have been working for five years on a research project that you hope to turn into a monograph. You've written two chapters and one article that will become a chapter (about 30,000 words or 120 pages), but you want help figuring out how to get it into shape and turn it into something you can send to an academic press.
 
-After an initial consultation, we would determine the reading and consultation time required to complete the project. We might determine that I would need to read and review the entire project twice, a process that would take about 24 hours each. My editorial rate is $75/hour, so the reading costs might be $3,600. In addition, we might agree to about ten hours of consultation work, at $90/hour. The total project would be estimated at $4,500.
+After an initial consultation, we would determine the reading and consultation time required to complete the project. We might determine that I would need to read and review the entire project twice, a process that would take about 24 hours each, plus an additional ten hours of consultation work. At my standard rate of $90/hour, the total project would be estimated at $3,060.
 
 ## Pricing Example: Article Revision
 You've got a 10,000 word scholarly article that needs to become 6500 clear and impactful words by the end of the month. 
 
-After an initial consultation, we decide that you need me to read the article, provide recommendations, and then meet a few times to discuss. We estimate 14 hours of editorial time at $75/hour ($1,050) plus five hours of consultation time ($450) for a total of $1500.
+After an initial consultation, we decide that you need me to read the article, provide recommendations, and then meet a few times to discuss. We estimate 14 hours of editorial time plus five hours of consultation time for a total of $1,170.
 
 
-
+*Last updated 12/23/2025*
 
 
 
