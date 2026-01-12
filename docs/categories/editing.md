@@ -57,6 +57,11 @@ You've got a 10,000 word scholarly article that needs to become 6500 clear and i
 
 After an initial consultation, we decide that you need me to read the article, provide recommendations, and then meet a few times to discuss. We estimate 14 hours of editorial time plus five hours of consultation time for a total of $1,170.
 
+<!-- ## Pricing Example: Humanities Center Support
+You run a humanities center that has up to ten writing fellows in residence. You want to be able to offer all the fellows access to editorial services.
+
+You decide to hire me as a consultant for the spring semester (five months). You purchase, in advance, 30 hours of consulting services (three per fellow) at $90/hour ($2,700), plus a 75-minute writing workshop ($300), for a total of $3,000. -->
+
 # Why me
 There are lots of people offering editorial services out there. Like picking a therapist, picking an editor or writing coach is about both expertise and fit. You want to find someone who is extremely good at understanding language and structure. But you also want someone whose values and approach to the work aligns with your own.
 
