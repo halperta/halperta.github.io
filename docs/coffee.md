@@ -4,27 +4,32 @@ layout: page
 permalink: /coffee/
 ---
 
-Everything is *hard* and *expensive* so we're turning Hannah's backyard into a free coffee house. Come drink coffee, eat snacks, hang out, or get some work done. 
+Everything is *hard* and *expensive* so we've turned out homes into a community space and free coffee house. Come drink coffee, eat snacks, hang out, or get some work done. 
 
-**November 2025 update:** From December - February, we're moving indoors to Saul and Claire's house and starting at 9:30 instead of 9! Contact us for the address.
+**March 2026 update:** From March - May, we are holding coffee at Saul and Claire's on Friday mornings from 9:30-1.
+
+EXCEPTION: on the second Friday of every month, coffee house will be closed. Instead, we will be holding coffee on the following Saturday.
 
 # When
 *We'll update this if there are changes for weather etc.*
 
-* Friday 12/5 9:30-1 pm
-* Friday 12/12 9:30-1 pm
-* ~~Friday 12/19 9:30-1 pm~~ No Coffee Today!
-* Saturday 12/20 9:30-1pm Holiday Party!
-* ~~Friday 12/27 9:30-1 pm~~ No Coffee Today!
-* ~~Friday 1/2 9:30-1 pm~~ No Coffee Today!
-* Friday 1/9 9:30-1 pm
-* Friday 1/16 9:30-1 pm
-* Friday 1/23 9:30-1 pm
-* Friday 1/30 9:30-1pm
-* Friday 2/6 9:30-1pm
-* Friday 2/13 9:30-1pm
-* Friday 2/20 9:30-1pm
 * Friday 2/27 9:30-1pm
+* Friday 3/6 9:30-1pm
+* ~~Friday 3/13 ~~ NO COFFEE
+* Saturday 3/14 9:30-1pm
+* Friday 3/20 9:30-1pm
+* Friday 3/27 9:30-1pm
+* Friday 4/3 9:30-1pm
+* ~~Friday 4/10 ~~ NO COFFEE
+* Saturday 4/11 9:30-1pm
+* Friday 4/17 9:30-1pm
+* Friday 4/24 9:30-1pm
+* Friday 5/2 9:30-1pm
+* ~~Friday 5/8 ~~ NO COFFEE
+* Saturday 5/9 9:30-1pm
+* Friday 5/15 9:30-1pm
+* Friday 5/22 9:30-1pm
+* Friday 5/29 9:30-1pm
 
 # Logistics
 *Who is responsible for this?* \\
