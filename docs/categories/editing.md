@@ -19,6 +19,7 @@ You might want to work with me if you are:
 * Turning your dissertation into a publishable monograph
 * Looking for external support for your first post-tenure book project
 * Co-authoring and looking for outside help managing different perspectives or styles.
+* You and a group of friends or colleagues are looking for lower-cost support as you work to set and achieve writing goals.
 
 Contact me to schedule a free consultation: halperta@gmail.com.
 
@@ -30,6 +31,8 @@ As a developmental editor, I will read and provide feedback on a chapter or full
 As a writing coach, I can help you get your project to completion. Sometimes I work with people at the very start of their projects who are trying to figure out how to shape their big idea. Other times, I work with people partway through a project who are feeling stuck and overwhelmed. Or I might work with someone who has finished a draft of their manuscript and isn't sure where to go next. I also provide accountability coaching for people who are struggling to meet deadlines and get things done. 
 
 I primarily work with non-fiction writers who are developing book-length manuscripts for academic or popular presses. I can also provide support on writing academic journal articles, book proposals, and responding to reader feedback.
+
+I also offer support to small groups at a discounted rate! Reach out for more information. 
 
 # Pricing and Structure
 Pricing and structure varies from case to case. In general, we would first hold an intake session to discuss your needs. 
@@ -61,6 +64,11 @@ After an initial consultation, we decide that you need me to read the article, p
 You run a humanities center that has up to ten writing fellows in residence. You want to be able to offer all the fellows access to editorial services.
 
 You decide to hire me as a consultant for the spring semester (five months). You purchase, in advance, 30 hours of consulting services (three per fellow) at $90/hour ($2,700), plus a 75-minute writing workshop ($300), for a total of $3,000. -->
+
+## Pricing Example: Group Support
+You and two colleagues are on sabbatical at the same time. You decide to contract with me collectively for coaching and accountability. 
+
+After an initial consultation, we agree that you would like to hold 90-minute meetings twice a month to set and review goals and discuss challenges. We agree on a discounted rate of $150 per session from September - December, for a total of $1200 ($400 per person).
 
 # Why me
 There are lots of people offering editorial services out there. Like picking a therapist, picking an editor or writing coach is about both expertise and fit. You want to find someone who is extremely good at understanding language and structure. But you also want someone whose values and approach to the work aligns with your own.
