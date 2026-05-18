@@ -2,7 +2,7 @@
 title: "Sabbatical"
 image: 
   path: /images/img_proj/takeaction-post.png
-  thumbnail: /images/img_proj/hacks.png
+  thumbnail: /images/img_proj/trill.png
 categories:
   - Public Writing
 tags:
