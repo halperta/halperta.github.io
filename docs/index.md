@@ -15,6 +15,8 @@ I wrote two workbooks: one about [finding your professional purpose](/shalperta%
 
 I am a founding member of [Sidra Collaborative](https://sidracollaborative.com/).
 
+Want to stay in touch? [Sign up for project updates.](https://docs.google.com/forms/d/e/1FAIpQLSfu-xSzGFL-9bJEWA5d-aUgq-WetvVR41bf7A82gw5Rb91xWQ/viewform?usp=header)
+
 # About Me
 
 I have spent most of my career working in the humanities, which encompasses the study of art, history, language, and culture. I have written about labor in higher education, about the use of technology in accessing the past and reshaping the future, and about the importance of radical transparency, shared vulnerability, and collective action in higher education.
