@@ -31,7 +31,8 @@ View my [cv](/pdf/halperta_cv.pdf) or [resume](/pdf/halperta_resume.pdf)
 # Contact me: 
 - halperta@gmail.com
 - Bluesky: [halperta.bsky.social](https://bsky.app/profile/halperta.bsky.social)
-- <del>Twitter: [@hralperta](https://twitter.com/hralperta/) </del>
+- [Newsletter sign up](https://docs.google.com/forms/d/e/1FAIpQLSfu-xSzGFL-9bJEWA5d-aUgq-WetvVR41bf7A82gw5Rb91xWQ/viewform?usp=header)
+<!-- - <del>Twitter: [@hralperta](https://twitter.com/hralperta/) </del> -->
 <br>
 
 # Recent Projects
