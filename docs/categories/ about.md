@@ -7,7 +7,7 @@ image:
 ---
 
 <figure style="width: 300px" class="align-right">
-  <img src="{{ '/images/sabbatical/13-va.png' | absolute_url }}" alt="">
+  <img src="{{ '/images/sabbatical/13-va.png' | absolute_url }}" alt="A curly-haired white person in a mustard yellow sweatshirt and blue glasses smiles while rolling paper through a vandercook press in a printing studio with brick walls.">
   <figcaption>Letterpress printing with Woolfproof Press in Charlottesville, VA.</figcaption>
 </figure> 
 
