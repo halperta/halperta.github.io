@@ -13,23 +13,22 @@ EXCEPTION: on the second Friday of every month, coffee house will be closed. Ins
 # When
 *We'll update this if there are changes for weather etc.*
 
-* Friday 2/27 9:30-1pm
-* Friday 3/6 9:30-1pm
-* ~~Friday 3/13 ~~ NO COFFEE
-* Saturday 3/14 9:30-1pm
-* Friday 3/20 9:30-1pm
-* Friday 3/27 9:30-1pm
-* Friday 4/3 9:30-1pm
-* ~~Friday 4/10 ~~ NO COFFEE
-* Saturday 4/11 9:30-1pm
-* Friday 4/17 9:30-1pm
-* Friday 4/24 9:30-1pm
-* Friday 5/2 9:30-1pm
-* ~~Friday 5/8 ~~ NO COFFEE
-* Saturday 5/9 9:30-1pm
-* Friday 5/15 9:30-1pm
-* Friday 5/22 9:30-1pm
-* Friday 5/29 9:30-1pm
+* Friday 6/5 9:30-1pm
+* ~~Friday 6/12 ~~ NO COFFEE
+* Saturday 6/13 9:30-1pm
+* Friday 6/19 9:30-1pm
+* Friday 6/26 9:30-1pm
+* Friday 7/3 10:30-2 SPECIAL HOURS FOR HANNAH'S BIRTHDAY
+* ~~Friday 7/10 ~~ NO COFFEE
+* Saturday 7/11 9:30-1pm
+* Friday 7/17 9:30-1pm
+* Friday 7/24 9:30-1pm
+* Friday 7/31 9:30-1pm
+* * Friday 8/7 9:30-1pm
+* ~~Friday 8/14 ~~ NO COFFEE
+* Saturday 8/15 9:30-1pm
+* Friday 8/21 9:30-1pm
+* Friday 8/28 9:30-1pm
 
 # Logistics
 *Who is responsible for this?* \\

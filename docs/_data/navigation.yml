@@ -2,6 +2,10 @@
 
 - title: Home
   url: /
+- title: About
+  url: /about/
+- title: Work With Me
+  url: /categories/mentorship/
 - title: Research
   url: /categories/research
 - title: Advocacy
@@ -10,8 +14,8 @@
   url: /categories/dh
 # - title: Media
 #   url: /categories/media
-- title: Work With Me
-  url: /categories/mentorship/
+
+
 # - title: Shalperta Press
 #   url: /shalperta/
 # - title: Projects by Topic
