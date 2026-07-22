@@ -6,7 +6,7 @@ permalink: /coffee/
 
 Everything is *hard* and *expensive* so we've turned out homes into a community space and free coffee house. Come drink coffee, eat snacks, hang out, or get some work done. 
 
-**March 2026 update:** From March - May, we are holding coffee at Saul and Claire's on Friday mornings from 9:30-1.
+Coffee is on Friday morning from 9:30-1 at Saul and Claire's (text for address)
 
 EXCEPTION: on the second Friday of every month, coffee house will be closed. Instead, we will be holding coffee on the following Saturday.
 
@@ -24,7 +24,7 @@ EXCEPTION: on the second Friday of every month, coffee house will be closed. Ins
 * Friday 7/17 9:30-1pm
 * Friday 7/24 9:30-1pm
 * Friday 7/31 9:30-1pm
-* * Friday 8/7 9:30-1pm
+* Friday 8/7 9:30-1pm
 * ~~Friday 8/14 ~~ NO COFFEE
 * Saturday 8/15 9:30-1pm
 * Friday 8/21 9:30-1pm
