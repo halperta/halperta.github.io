@@ -39,7 +39,7 @@ Pricing and structure varies from case to case. In general, we would first hold 
 
 You might decide that you want to schedule one-off conversations as needed, in which case you would pay a sliding-scale rate of $95-$110 for each session. 
 
-In other cases, you might be looking for a more involved and collaborative process. After our consultation, I would provide a proposal for either a) a monthly rate or b) a cost range based on the hours of work we expect the project will require. You would then be billed for the number of hours I actually worked. 
+In other cases, you might be looking for a more involved and collaborative process. My rate for longer-term projects is typically $90/hour. After our consultation, I would provide a proposal for either a) a fixed monthly rate or b) a cost range based on the hours of work we expect the project will require. You would then be billed for the number of hours I actually worked. 
 
 In some cases I may be able to offer reduced rates.
 
