@@ -24,9 +24,9 @@ EXCEPTION: on the second Friday of every month, coffee house will be closed. Ins
 * Friday 7/17 9:30-1pm
 * Friday 7/24 9:30-1pm
 * Friday 7/31 9:30-1pm
-* Friday 8/7 9:30-1pm
-* ~~Friday 8/14 ~~ NO COFFEE
-* Saturday 8/15 9:30-1pm
+* ~~Friday 8/7~~ NO COFFEE
+* Saturday 9:30-1pm
+* Friday 8/14 9:30-1pm
 * Friday 8/21 9:30-1pm
 * Friday 8/28 9:30-1pm
 
